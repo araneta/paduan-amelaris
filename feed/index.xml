@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Amelaris University Manual Book</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Sistem informasi akademik universitas berbasis REST API yang ramah pengguna, efisien dan fleksibel</description>
+	<lastBuildDate>Wed, 05 Oct 2022 06:41:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/10/cropped-Logo_mark-32x32.png</url>
+	<title>Amelaris University Manual Book</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sekilas Pandang Mengenai Amelaris University</title>
+		<link>/sekilas-pandang-mengenai-amelaris-university/</link>
+					<comments>/sekilas-pandang-mengenai-amelaris-university/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 04:57:09 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=5</guid>
+
+					<description><![CDATA[<p>Amelaris adalah Sistem informasi akademik untuk universitas yang berfungsi untuk membantu mengatur kegiatan akademis di universitas mulai dari pendaftaran mahasiswa, pembuatan kurikulum, pengisian IRS, mengatur kegiatan perkuliahan, pembayaran uang perkuliahan hingga pembuatan transkrip nilai. Untuk dapat menggunakan sistem informasi akademik ini diperlukan koneksi internet. Sistem informasi ini terdiri atas 2 bagian yaitu aplikasi REST server&#8230;&#160;<a href="/sekilas-pandang-mengenai-amelaris-university/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Sekilas Pandang Mengenai Amelaris University</span></a></p>
+<p>The post <a rel="nofollow" href="/sekilas-pandang-mengenai-amelaris-university/">Sekilas Pandang Mengenai Amelaris University</a> appeared first on <a rel="nofollow" href="/">Amelaris University Manual Book</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Amelaris adalah Sistem informasi akademik untuk universitas yang berfungsi untuk membantu mengatur kegiatan akademis di universitas mulai dari pendaftaran mahasiswa, pembuatan kurikulum, pengisian IRS, mengatur kegiatan perkuliahan, pembayaran uang perkuliahan hingga pembuatan transkrip nilai. Untuk dapat menggunakan sistem informasi akademik ini diperlukan koneksi internet.</p>
+
+
+
+<p>Sistem informasi ini terdiri atas 2 bagian yaitu aplikasi REST server dan web client. REST server bertugas sebagai API server yang mengatur semua business proses pada sistem akademik ini. Sedangkan web client akan bertugas menampilkan web page pada client dan berkomunikasi dengan REST server. REST server dibangun diatas framework Silex (PHP) dan menggunakan database PostgreSQL. Sedangkan untuk aplikasi client dibangun menggunakan React JS. Tampilan webnya dibangun diatas framework Twitter Bootstrap 3 agar mendukung berbagai macam resolusi layar dari smart phone sampai desktop</p>
+
+
+
+<p>Amelaris mempunyai beberapa role pengguna diantaranya :</p>
+
+
+
+<ol><li><strong>Role Admin</strong></li></ol>
+
+
+
+<p>Role ini bertugas mengatur semua fungsi dari sistem informasi ini, mulai profil universitas, setting persetujuan irs, master data, user management hingga laporan. Alamat login untuk admin adalah http://namadomain.com/admin/login. login yang dipakai adalah alamat email sebagai usernamenya</p>
+
+
+
+<ol start="2"><li><strong>Role Admin Akademik</strong></li></ol>
+
+
+
+<p>Role ini bertugas mengatur data akademik pada semua program studi. Alamat login untuk module ini adalah http://namadomain.com/academic-admin . login yang dipakai adalah nip atau username.</p>
+
+
+
+<ol start="3"><li><strong>Role Staf Akademik</strong></li></ol>
+
+
+
+<p>Role ini dibuat untuk pegawai bagian akademik untuk mengatur data akademik per program studi. Alamat login untuk module ini adalah http://namadomain.com/academic . login yang dipakai adalah nip atau username.</p>
+
+
+
+<ol start="4"><li><strong>Role Mahasiswa</strong></li></ol>
+
+
+
+<p>Role ini dibuat untuk user mahasiswa untuk melihat data akademik miliknya, mengisi atau mengubah IRS dan melihat jadwal perkuliahan dan juga kalender akademik. Alamat login untuk mahasiswa adalah http://namadomain.com/student . login yang dipakai adalah nim</p>
+
+
+
+<ol start="5"><li><strong>Role Staff</strong></li></ol>
+
+
+
+<p>Role ini dibuat untuk user dosen dan staff pengajar untuk melihat isian IRS mahasiswa, melihat kelas perkuliahan, mahasiswa bimbingan dan kalender akademik. Alamat login untuk dosen dan staff adalah http://namadomain.com/staff . login yang dipakai adalah nip atau username.</p>
+
+
+
+<ol start="6"><li><strong>Role Admin Keuangan</strong></li></ol>
+
+
+
+<p>Role ini dibuat untuk user yang mengatur data pembayaran perkuliahan mahasiswa mulai dari kategori tagihan, periode tagihan, jenis tagihan, hingga transaksi pembayaran. Alamat login untuk admin keuangan adalah http://namadomain.com/finance-admin . login yang dipakai adalah nip atau username.</p>
+
+
+
+<ol start="7"><li><strong>Role Calon Mahasiswa Baru</strong></li></ol>
+
+
+
+<p>Role ini dibuat untuk user calon mahasiswa baru yang mendaftar pada universitas ini. User dapat melihat pengumuman program studi yang dibuka pendaftarannya, mendaftarkan diri serta melengkapi berkas pendaftaran dan melihat pengumuman kelulusan pendaftaran. Alamat login untuk calon mahasiswa baru adalah http://namadomain.com/admission . login yang dipakai adalah email pendaftar</p>
+
+
+
+<ol start="8"><li><strong>Role Admin PMB</strong></li></ol>
+
+
+
+<p>Role ini dibuat untuk user yang mengatur proses pendaftaran mahasiswa baru yang mendaftar pada universitas ini. User dapat membuat pengumuman pendaftaran, melihat calon mahasiswa baru, mengatur syarat pendaftaran hingga meluluskan calon mahasiswa baru menjadi mahasiswa baru. Alamat login untuk admin PMB adalah http://namadomain.com/admission-admin. login yang dipakai adalah nip atau username.</p>
+<p>The post <a rel="nofollow" href="/sekilas-pandang-mengenai-amelaris-university/">Sekilas Pandang Mengenai Amelaris University</a> appeared first on <a rel="nofollow" href="/">Amelaris University Manual Book</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/sekilas-pandang-mengenai-amelaris-university/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
