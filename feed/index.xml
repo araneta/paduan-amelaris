@@ -30,7 +30,6 @@
 	<item>
 		<title>Sekilas Pandang Mengenai Amelaris University</title>
 		<link>/sekilas-pandang-mengenai-amelaris-university/</link>
-					<comments>/sekilas-pandang-mengenai-amelaris-university/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 05 Oct 2022 04:57:09 +0000</pubDate>
@@ -114,11 +113,27 @@
 
 
 <p>Role ini dibuat untuk user yang mengatur proses pendaftaran mahasiswa baru yang mendaftar pada universitas ini. User dapat membuat pengumuman pendaftaran, melihat calon mahasiswa baru, mengatur syarat pendaftaran hingga meluluskan calon mahasiswa baru menjadi mahasiswa baru. Alamat login untuk admin PMB adalah http://namadomain.com/admission-admin. login yang dipakai adalah nip atau username.</p>
-<p>The post <a rel="nofollow" href="/sekilas-pandang-mengenai-amelaris-university/">Sekilas Pandang Mengenai Amelaris University</a> appeared first on <a rel="nofollow" href="/">Amelaris University Manual Book</a>.</p>
+<div class="fb-background-color">
+			  <div 
+			  	class = "fb-comments" 
+			  	data-href = "/sekilas-pandang-mengenai-amelaris-university/"
+			  	data-numposts = "10"
+			  	data-lazy = "true"
+				data-colorscheme = "light"
+				data-order-by = "social"
+				data-mobile=true>
+			  </div></div>
+		  <style>
+		    .fb-background-color {
+				background: #ffffff !important;
+			}
+			.fb_iframe_widget_fluid_desktop iframe {
+			    width: 100% !important;
+			}
+		  </style>
+		  <p>The post <a rel="nofollow" href="/sekilas-pandang-mengenai-amelaris-university/">Sekilas Pandang Mengenai Amelaris University</a> appeared first on <a rel="nofollow" href="/">Amelaris University Manual Book</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/sekilas-pandang-mengenai-amelaris-university/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
