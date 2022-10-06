@@ -9,8 +9,8 @@
 
 <channel>
 	<title>admin, Author at Amelaris University Manual Book</title>
-	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
-	<link>/author/admin/</link>
+	<atom:link href="https://docs.amelaris.com/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://docs.amelaris.com/author/admin/</link>
 	<description>Sistem informasi akademik universitas berbasis REST API yang ramah pengguna, efisien dan fleksibel</description>
 	<lastBuildDate>Thu, 06 Oct 2022 07:18:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/10/cropped-Logo_mark-32x32.png</url>
+	<url>https://docs.amelaris.com/wp-content/uploads/2022/10/cropped-Logo_mark-32x32.png</url>
 	<title>admin, Author at Amelaris University Manual Book</title>
-	<link>/author/admin/</link>
+	<link>https://docs.amelaris.com/author/admin/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Menu Perkuliahan</title>
-		<link>/menu-perkuliahan/</link>
+		<link>https://docs.amelaris.com/menu-perkuliahan/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 07:05:52 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=34</guid>
+		<guid isPermaLink="false">https://docs.amelaris.com/?p=34</guid>
 
-					<description><![CDATA[<p>Menu perkuliahan berisi segala sesuatu yang berkaitan dengan proses perkuliahan mahasiswa 4.1. Rules Management Pada halaman Rules Management (Gambar 4.1.)&#160; terdapat 2 tab yaitu: Mahasiswa IPK Rendah, yaitu Daftar mahasiswa semester 1 dengan IPK kurang dari sama dengan 1.0 Syarat IRS dan KHS, yaitu apakah harus lunas UKT dan mengisi kuesioner Gambar 4.1. Halaman Kalender&#8230;&#160;<a href="/menu-perkuliahan/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Menu Perkuliahan</span></a></p>
-<p>The post <a rel="nofollow" href="/menu-perkuliahan/">Menu Perkuliahan</a> appeared first on <a rel="nofollow" href="/">Amelaris University Manual Book</a>.</p>
+					<description><![CDATA[<p>Menu perkuliahan berisi segala sesuatu yang berkaitan dengan proses perkuliahan mahasiswa 4.1. Rules Management Pada halaman Rules Management (Gambar 4.1.)&#160; terdapat 2 tab yaitu: Mahasiswa IPK Rendah, yaitu Daftar mahasiswa semester 1 dengan IPK kurang dari sama dengan 1.0 Syarat IRS dan KHS, yaitu apakah harus lunas UKT dan mengisi kuesioner Gambar 4.1. Halaman Kalender&#8230;&#160;<a href="https://docs.amelaris.com/menu-perkuliahan/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Menu Perkuliahan</span></a></p>
+<p>The post <a rel="nofollow" href="https://docs.amelaris.com/menu-perkuliahan/">Menu Perkuliahan</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Menu perkuliahan berisi segala sesuatu yang berkaitan dengan proses perkuliahan mahasiswa</p>
@@ -489,7 +489,7 @@
 <div class="fb-background-color">
 			  <div 
 			  	class = "fb-comments" 
-			  	data-href = "/menu-perkuliahan/"
+			  	data-href = "https://docs.amelaris.com/menu-perkuliahan/"
 			  	data-numposts = "10"
 			  	data-lazy = "true"
 				data-colorscheme = "light"
@@ -504,7 +504,7 @@
 			    width: 100% !important;
 			}
 		  </style>
-		  <p>The post <a rel="nofollow" href="/menu-perkuliahan/">Menu Perkuliahan</a> appeared first on <a rel="nofollow" href="/">Amelaris University Manual Book</a>.</p>
+		  <p>The post <a rel="nofollow" href="https://docs.amelaris.com/menu-perkuliahan/">Menu Perkuliahan</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -512,15 +512,15 @@
 			</item>
 		<item>
 		<title>Master Data</title>
-		<link>/master-data/</link>
+		<link>https://docs.amelaris.com/master-data/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 06:59:31 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=30</guid>
+		<guid isPermaLink="false">https://docs.amelaris.com/?p=30</guid>
 
-					<description><![CDATA[<p>Menu master data berisi sekumpulan halaman yang mengatur data-data yang sifatnya mendasar dan digunakan pada seluruh bagian aplikasi sistem informasi akademik. Berikut akan dijelaskan tiap halaman secara mendetail. 3.1. Fakultas Halaman daftar fakultas (Gambar 3.1.)&#160; berfungsi untuk menambah atau mengubah fakultas yang ada di universitas. Pada kolom Action pengguna bisa mengklik tombol lihat detail, edit&#8230;&#160;<a href="/master-data/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Master Data</span></a></p>
-<p>The post <a rel="nofollow" href="/master-data/">Master Data</a> appeared first on <a rel="nofollow" href="/">Amelaris University Manual Book</a>.</p>
+					<description><![CDATA[<p>Menu master data berisi sekumpulan halaman yang mengatur data-data yang sifatnya mendasar dan digunakan pada seluruh bagian aplikasi sistem informasi akademik. Berikut akan dijelaskan tiap halaman secara mendetail. 3.1. Fakultas Halaman daftar fakultas (Gambar 3.1.)&#160; berfungsi untuk menambah atau mengubah fakultas yang ada di universitas. Pada kolom Action pengguna bisa mengklik tombol lihat detail, edit&#8230;&#160;<a href="https://docs.amelaris.com/master-data/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Master Data</span></a></p>
+<p>The post <a rel="nofollow" href="https://docs.amelaris.com/master-data/">Master Data</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Menu master data berisi sekumpulan halaman yang mengatur data-data yang sifatnya mendasar dan digunakan pada seluruh bagian aplikasi sistem informasi akademik. Berikut akan dijelaskan tiap halaman secara mendetail.</p>
@@ -859,7 +859,7 @@
 <div class="fb-background-color">
 			  <div 
 			  	class = "fb-comments" 
-			  	data-href = "/master-data/"
+			  	data-href = "https://docs.amelaris.com/master-data/"
 			  	data-numposts = "10"
 			  	data-lazy = "true"
 				data-colorscheme = "light"
@@ -874,7 +874,7 @@
 			    width: 100% !important;
 			}
 		  </style>
-		  <p>The post <a rel="nofollow" href="/master-data/">Master Data</a> appeared first on <a rel="nofollow" href="/">Amelaris University Manual Book</a>.</p>
+		  <p>The post <a rel="nofollow" href="https://docs.amelaris.com/master-data/">Master Data</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -882,15 +882,15 @@
 			</item>
 		<item>
 		<title>Halaman Login</title>
-		<link>/halaman-login/</link>
+		<link>https://docs.amelaris.com/halaman-login/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 06:48:50 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=27</guid>
+		<guid isPermaLink="false">https://docs.amelaris.com/?p=27</guid>
 
-					<description><![CDATA[<p>Sebelum masuk ke dalam sistem informasi akademik ini admin harus login lewat alamat http://namadomain.com/admin/login. Kemudian masukkan username dan password pada form Login Admin (Gambar 2.1.). Username yang dipakai berupa email. Apabila anda berhasil login anda akan masuk ke halaman Dashboard (Gambar 2.3.) Gambar 2.1. Halaman Login Apabila anda lupa password anda dapat menekan link forgot&#8230;&#160;<a href="/halaman-login/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Halaman Login</span></a></p>
-<p>The post <a rel="nofollow" href="/halaman-login/">Halaman Login</a> appeared first on <a rel="nofollow" href="/">Amelaris University Manual Book</a>.</p>
+					<description><![CDATA[<p>Sebelum masuk ke dalam sistem informasi akademik ini admin harus login lewat alamat http://namadomain.com/admin/login. Kemudian masukkan username dan password pada form Login Admin (Gambar 2.1.). Username yang dipakai berupa email. Apabila anda berhasil login anda akan masuk ke halaman Dashboard (Gambar 2.3.) Gambar 2.1. Halaman Login Apabila anda lupa password anda dapat menekan link forgot&#8230;&#160;<a href="https://docs.amelaris.com/halaman-login/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Halaman Login</span></a></p>
+<p>The post <a rel="nofollow" href="https://docs.amelaris.com/halaman-login/">Halaman Login</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Sebelum masuk ke dalam sistem informasi akademik ini admin harus login lewat alamat http://namadomain.com/admin/login. Kemudian masukkan username dan password pada form <strong>Login Admin </strong>(Gambar 2.1.). Username yang dipakai berupa email. Apabila anda berhasil login anda akan masuk ke halaman <strong>Dashboard</strong> (Gambar 2.3.)</p>
@@ -1034,7 +1034,7 @@
 <div class="fb-background-color">
 			  <div 
 			  	class = "fb-comments" 
-			  	data-href = "/halaman-login/"
+			  	data-href = "https://docs.amelaris.com/halaman-login/"
 			  	data-numposts = "10"
 			  	data-lazy = "true"
 				data-colorscheme = "light"
@@ -1049,7 +1049,7 @@
 			    width: 100% !important;
 			}
 		  </style>
-		  <p>The post <a rel="nofollow" href="/halaman-login/">Halaman Login</a> appeared first on <a rel="nofollow" href="/">Amelaris University Manual Book</a>.</p>
+		  <p>The post <a rel="nofollow" href="https://docs.amelaris.com/halaman-login/">Halaman Login</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -1057,15 +1057,15 @@
 			</item>
 		<item>
 		<title>Sekilas Pandang Mengenai Amelaris University</title>
-		<link>/sekilas-pandang-mengenai-amelaris-university/</link>
+		<link>https://docs.amelaris.com/sekilas-pandang-mengenai-amelaris-university/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 05 Oct 2022 04:57:09 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=5</guid>
+		<guid isPermaLink="false">https://docs.amelaris.com/?p=5</guid>
 
-					<description><![CDATA[<p>Amelaris adalah Sistem informasi akademik untuk universitas yang berfungsi untuk membantu mengatur kegiatan akademis di universitas mulai dari pendaftaran mahasiswa, pembuatan kurikulum, pengisian IRS, mengatur kegiatan perkuliahan, pembayaran uang perkuliahan hingga pembuatan transkrip nilai. Untuk dapat menggunakan sistem informasi akademik ini diperlukan koneksi internet. Sistem informasi ini terdiri atas 2 bagian yaitu aplikasi REST server&#8230;&#160;<a href="/sekilas-pandang-mengenai-amelaris-university/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Sekilas Pandang Mengenai Amelaris University</span></a></p>
-<p>The post <a rel="nofollow" href="/sekilas-pandang-mengenai-amelaris-university/">Sekilas Pandang Mengenai Amelaris University</a> appeared first on <a rel="nofollow" href="/">Amelaris University Manual Book</a>.</p>
+					<description><![CDATA[<p>Amelaris adalah Sistem informasi akademik untuk universitas yang berfungsi untuk membantu mengatur kegiatan akademis di universitas mulai dari pendaftaran mahasiswa, pembuatan kurikulum, pengisian IRS, mengatur kegiatan perkuliahan, pembayaran uang perkuliahan hingga pembuatan transkrip nilai. Untuk dapat menggunakan sistem informasi akademik ini diperlukan koneksi internet. Sistem informasi ini terdiri atas 2 bagian yaitu aplikasi REST server&#8230;&#160;<a href="https://docs.amelaris.com/sekilas-pandang-mengenai-amelaris-university/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Sekilas Pandang Mengenai Amelaris University</span></a></p>
+<p>The post <a rel="nofollow" href="https://docs.amelaris.com/sekilas-pandang-mengenai-amelaris-university/">Sekilas Pandang Mengenai Amelaris University</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Amelaris adalah Sistem informasi akademik untuk universitas yang berfungsi untuk membantu mengatur kegiatan akademis di universitas mulai dari pendaftaran mahasiswa, pembuatan kurikulum, pengisian IRS, mengatur kegiatan perkuliahan, pembayaran uang perkuliahan hingga pembuatan transkrip nilai. Untuk dapat menggunakan sistem informasi akademik ini diperlukan koneksi internet.</p>
@@ -1144,7 +1144,7 @@
 <div class="fb-background-color">
 			  <div 
 			  	class = "fb-comments" 
-			  	data-href = "/sekilas-pandang-mengenai-amelaris-university/"
+			  	data-href = "https://docs.amelaris.com/sekilas-pandang-mengenai-amelaris-university/"
 			  	data-numposts = "10"
 			  	data-lazy = "true"
 				data-colorscheme = "light"
@@ -1159,7 +1159,7 @@
 			    width: 100% !important;
 			}
 		  </style>
-		  <p>The post <a rel="nofollow" href="/sekilas-pandang-mengenai-amelaris-university/">Sekilas Pandang Mengenai Amelaris University</a> appeared first on <a rel="nofollow" href="/">Amelaris University Manual Book</a>.</p>
+		  <p>The post <a rel="nofollow" href="https://docs.amelaris.com/sekilas-pandang-mengenai-amelaris-university/">Sekilas Pandang Mengenai Amelaris University</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
 ]]></content:encoded>
 					
 		
