@@ -12,7 +12,7 @@
 	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>/author/admin/</link>
 	<description>Sistem informasi akademik universitas berbasis REST API yang ramah pengguna, efisien dan fleksibel</description>
-	<lastBuildDate>Wed, 05 Oct 2022 06:41:32 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 06 Oct 2022 07:18:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,1034 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Menu Perkuliahan</title>
+		<link>/menu-perkuliahan/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 07:05:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=34</guid>
+
+					<description><![CDATA[<p>Menu perkuliahan berisi segala sesuatu yang berkaitan dengan proses perkuliahan mahasiswa 4.1. Rules Management Pada halaman Rules Management (Gambar 4.1.)&#160; terdapat 2 tab yaitu: Mahasiswa IPK Rendah, yaitu Daftar mahasiswa semester 1 dengan IPK kurang dari sama dengan 1.0 Syarat IRS dan KHS, yaitu apakah harus lunas UKT dan mengisi kuesioner Gambar 4.1. Halaman Kalender&#8230;&#160;<a href="/menu-perkuliahan/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Menu Perkuliahan</span></a></p>
+<p>The post <a rel="nofollow" href="/menu-perkuliahan/">Menu Perkuliahan</a> appeared first on <a rel="nofollow" href="/">Amelaris University Manual Book</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Menu perkuliahan berisi segala sesuatu yang berkaitan dengan proses perkuliahan mahasiswa</p>
+
+
+
+<h2>4.1. Rules Management</h2>
+
+
+
+<p>Pada halaman Rules Management (Gambar 4.1.)&nbsp; terdapat 2 tab yaitu:</p>
+
+
+
+<ol><li><strong>Mahasiswa IPK Rendah</strong>, yaitu Daftar mahasiswa semester 1 dengan IPK kurang dari sama dengan 1.0</li><li><strong>Syarat IRS dan KHS</strong>, yaitu apakah harus lunas UKT dan mengisi kuesioner</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/ROXzlDq1zvw5QKMcIpNk0h0F7CCfctWqakJI1Gyr924Uwno60CEiDgq5V8CUZ5HHZad3lEF_8-1JcdGWlLNCJINDABgX6kZm68mfFsYoKoL1jxG1gCPLmEa0hioNXa7clWfEGxITln5BHPjc7kHC93IMyJmxMD0wWLIzzPt2-CQyNuik2msZ_zNhmg" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.1. Halaman Kalender Akademik</em></strong></p>
+
+
+
+<h2>4.2. Kalender Akademik</h2>
+
+
+
+<p>Halaman Kalender Akademik (Gambar 4.2.) berfungsi sebagai tempat untuk mengatur jadwal kegiatan yang ada pada universitas. Kegiatan akademik yang perlu dimasukkan tiap semester adalah:</p>
+
+
+
+<ol><li>Registrasi Mahasiswa Baru</li><li>Masa Pengisian IRS</li><li>Masa Perubahan IRS</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/Oih3WhaFryI8JaKJI_6rV1Rs7P79HGehE4_8QaifVeRQq7UcosN3UKWQP3-nXRa9jPqfp5xlB8DFl0dDOY5rtm-YCefk1BuihnI4w5sXK8ZgdSl4YhQ6xYEc47pgvO7j2msq5_AgGSqn1oStbRGD-SXJNawp3HnPe6dgatWuFLg-YdVu8WugGAIo" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.2. Halaman Kalender Akademik</em></strong></p>
+
+
+
+<p>Untuk menambah kegiatan baru tekan tombol Tambah Kegiatan kemudian akan muncul halaman Tambah Kegiatan seperti gambar 4.3.</p>
+
+
+
+<p>Pada halaman Tambah Kegiatan :</p>
+
+
+
+<ol><li>Masukkan <strong>Penetapan </strong>kegiatan yaitu ruang lingkup kegiatan, <strong>Periode </strong>kegiatan berlangsung<strong>, Jenis </strong>kegiatan<strong> , Tanggal Mulai dan waktu, Durasi</strong> dan Deskripsi (opsional)</li><li>Tekan tombol <strong>Save</strong> untuk menyimpan kegiatan ke database</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/qVoZVvE-zFZgz47Qv2q2lYJW_ah_DDofjZCOGi4GZ99S76pXJITTq4Yrtx11m1T95sXuEeysXYiHNliJEBdYLkKv1py2iZ44wquWkfEslZUiSUWFE_dSF79M5HB_0Kzd32OQ9i3bUuc2kqpg5O4bFcz7AB2RvrY85xHPSb9TMIh8eOAR6DaXCwVk" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.3. Halaman Tambah Kegiatan</em></strong></p>
+
+
+
+<h2>4.3. Mata Kuliah</h2>
+
+
+
+<p>Halaman Mata Kuliah (Gambar 4.4.) berfungsi sebagai tempat mengatur semua mata kuliah yang ada pada universitas.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/rl0ibMcEyEBkDxXyD4aXN85_K_e2tIkrXOzrwkUc9YuKUiT8uTwwWcb5cluybJFdjamrgVzW8C1zfRLCn-38QRPl3nrvukHgYCj4v2Y3afBhS9ann4UeMHCT3chSHwGUi_kI8j4EFuVkK1nlEnVjMfpuoYWCVJ4Xhtx7mHiBvFnR1Iae9FYAB882" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.4. Halaman Daftar Mata Kuliah</em></strong></p>
+
+
+
+<p>Untuk menambah mata kuliah tekan tombol Tambah Mata Kuliah kemudian akan muncul halaman seperti gambar 4.4.</p>
+
+
+
+<ol><li>Masukkan <strong>Kode Mata Kuliah, Nama Mata Kuliah, SKS Mata Kuliah, Jenis Mata Kuliah, Kelompok Mata Kuliah, Lingkup Mata Kuliah. </strong>Field lainnya adalah opsional dan boleh dikosongi. Untuk menambah prasyarat suatu mata kuliah, masukkan kode mata kuliah pada field <strong>Prasyarat</strong> &gt; <strong>Tambah MK</strong> dan pilih mata kuliah yang sesuai.</li><li>Tekan tombol <strong>Save</strong> untuk menyimpan Mata Kuliah ke database</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/KT8tkvjklX6kpgV_rdBq7VaKo3Z_l5j2uprdfque7VlWRDaO81OkArodTH0jsgwth7TpFm7gbKz5fToArPT_B8YzBbLbNL68TYxUdHQ4JdHZ48_jiKBOJljK3dahdfGz-Hiqcq7XumYLQNW33T2ez6Q1y_WllTAoOIF93-GCzXcKLvaq6wIeH7v86A" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.5. Halaman Tambah Mata Kuliah</em></strong></p>
+
+
+
+<h2>4.4. Paket Mata Kuliah</h2>
+
+
+
+<p>Halaman Paket Mata Kuliah (Gambar 4.6) digunakan mengatur paket mata kuliah tiap program studi per semester</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/BNnTreKrn6ezJXELLJqiEseWK9Mbko55_p5wrRqTXwMadMGh3Xjp-M7bZCDq7UcfiZbRyDgIRYrcYb7RsSiexJ47KZUON9i_rT4SUIUL_568kHizz2ckhjj0CTyUXfEFsLqQbgTJA94QIQ30Yn6mn0JG7kXazWIwnqcM8TKO7CtupY4IWT1mdClSUg" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.6. Halaman Daftar Paket Mata Kuliah</em></strong></p>
+
+
+
+<p>Untuk menambah paket mata kuliah tekan tombol Tambah Paket Mata Kuliah kemudian akan muncul halaman seperti gambar 4.7.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/h7D-M4ia905GIKCaw8hQSkdtwL-jpUF_BZ-us13jlHvleJqx4s9vZoBf718sGte4lrrV9Mt6MIETAH6bpHY2k2c86vCqWbUe2wykFTN7ErjBMoptzphCa85xNpueT8zgFhhkXIENalsVi3V0gq9N3CeGpMSCR-1jZ2-gE_nQHhhNey8zyXI1pCislw" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.7. Halaman Tambah Paket Mata Kuliah</em></strong></p>
+
+
+
+<ol><li>Pilih <strong>Kurikulum, Periode, Semester </strong>dan Nama paket<strong>.</strong></li><li>Tekan tombol <strong>Save</strong> untuk menyimpan Paket Mata Kuliah ke database</li><li>Setelah data berhasil disimpan kemudian akan muncul tab <strong>Mata Kuliah</strong> dan <strong>Assign Mahasiswa</strong>.</li><li>Klik tab <strong>Mata Kuliah</strong>, kemudian tekan tombol <strong>Tambah Kelas Mata Kuliah</strong>, sehingga akan muncul dialog <strong>Daftar Kelas Mata Kuliah yang ditawarkan</strong></li><li>Centang kelas mata kuliah yang akan dimasukkan kedalam paket mata kuliah. Dan tekan tombol <strong>Pilih</strong></li><li>Kemudian kita perlu meng assign paket mata kuliah ke mahasiswa, tekan tab <strong>Assign Mahasiswa</strong>.</li><li>Kemudian tekan tombol <strong>Tambah Mahasiswa</strong>, kemudian akan muncul dialog <strong>Mahasiswa Terdaftar</strong>, centang mahasiswa yang akan di assign ke paket mata kuliah ini, kemudian tekan tombol Pilih</li><li>Tekan tombol <strong>Assign Mahasiswa Dalam</strong> Tabel untuk menyimpan perubahan ke dalam database.</li></ol>
+
+
+
+<h2>4.5. Kurikulum</h2>
+
+
+
+<p>Halaman Kurikulum (Gambar 4.8.) digunakan mengatur kurikulum yang ada di tiap program studi.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/p1W_wROdmFur-NeCnuwPigwjQf40PUBzCLppYJOAqL3vNJlXLdM2H3De28n59rzm9ZUQ6ZYQkD07qH5-JHW1rrijaq5__PpnMhCcA2aGgJqFx1jA4jDsWWwocgM1TGzphItPk_-YUkiKiAwvRZtTmT9jH3DZs668fLWzze8jbFdjMUlkXeMRwE7u" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.8. Halaman Kurikulum</em></strong></p>
+
+
+
+<p>Untuk menambah kurikulum tekan tombol Tambah Kurikulum kemudian akan muncul halaman seperti gambar 4.9. Pada halaman Tambah Kurikulum</p>
+
+
+
+<ol><li>Pilih <strong>Tahun, </strong>masukkan<strong> Kode </strong>kurikulum dan <strong>Maksimal Masa Studi. </strong>Pada tabel<strong> Jenis Mata kuliah dan minimal sks yang harus diambil mahasiswa </strong>masukkan <strong>SKS Minimal</strong> untuk tiap jenis mata kuliah. Kemudian masukkan <strong>Total SKS</strong> dan pilih <strong>Status, </strong>dan pilih semester di <strong>Aktif Mulai Semester</strong>.</li><li>Tekan tombol <strong>Save</strong> untuk menyimpan Kurikulum ke database</li><li>Setelah kurikulum berhasil disimpan kemudian akan muncul tab baru yaitu <strong>Mata Kuliah</strong> dan <strong>Assign Mahasiswa</strong></li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/QTU9EmKmEAjKPg1HTu50Faf6b99hVWlzt0rYo-MJ88yDcpwbFSsg5-qAObtovygQRvdJuffCvjVf2YloBZZGjLI40iHzvTrCMZAqCGrUmiviLgrsnECul93S1pNb8SyUHdjx6CkNUr_fv1I6NhqqWCgR0X1QFBJtPzXomM9Sa6baq3CW5JgXPg8bvQ" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.9. Halaman Tambah Kurikulum</em></strong></p>
+
+
+
+<h3>Memasukkan Mata Kuliah ke Kurikulum</h3>
+
+
+
+<ol><li>Untuk memasukkan mata kuliah ke dalam kurikulum klik tab <strong>Mata Kuliah</strong>, klik tombol <strong>Assign Mata Kuliah</strong> kemudian akan muncul dialog <strong>Daftar Mata Kuliah </strong>(Gambar 4.10.)</li><li>Pada dialog <strong>Daftar Mata Kuliah</strong>, untuk setiap mata kuliah yang akan dimasukkan ke dalam kurikulum terpilih, masukkan angka ke dalam text box <strong>Semester, SKS Tatap Muka, SKS Praktikum, SKS Praktek Lapangan</strong> kemudian tekan tombol <strong>Simpan</strong></li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/5Vk12j1D72op1ZE0pU62WV7UrHUzp9ovQRDu00Tz0nGGvxaPOrOaMFn5vhFOQG3kgXxe1ROiG7zCqbCAAPd69JVe_Jm1uceEiXis7ffUNQ_hwBBquUUnQEgU1RLZfHM-eIHhy_Vnrbnk85b1vqTutuGiu0Hl5TzIEG4-iVwwP7wjHYhn1Th-Mcbp2w" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.10. Dialog Daftar Matakuliah</em></strong></p>
+
+
+
+<h3>Memasukkan Mahasiswa ke Kurikulum</h3>
+
+
+
+<ol><li>Untuk memasukkan mahasiswa ke dalam kurikulum klik tab <strong>Assign Mahasiswa</strong>, klik tombol <strong>Assign Mahasiswa</strong> kemudian akan muncul dialog <strong>Mahasiswa Terdaftar </strong>(Gambar 4.11.)</li><li>Pada dialog <strong>Mahasiswa Terdaftar</strong>, pilih <strong>Periode pendaftaran </strong>mahasiswa kemudian centang checkbox pada setiap mahasiswa yang akan dimasukkan ke dalam kurikulum terpilih, kemudian tekan tombol <strong>Pilih</strong></li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/6kCn4L6HQdBybDIcEqs-ljXuqI25oWmZ92rH3M3gh74ULYy7m6RzQc_gh-R5sE_ejLWdFH5S84SbtCdUt6CXt2q4Ess5YwzRcmVybTYf1XvZkYOytUzhPsPFauz413gTRHcHBYhsGLgSXIiqzZ-RA5jgCUCFKC17V1mK1PQoGueYqpkdV4EYJ_q9" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.11. Dialog Mahasiswa Terdaftar</em></strong></p>
+
+
+
+<p>.4.6. Ruang Kelas</p>
+
+
+
+<p>Halaman Ruang Kelas (Gambar 4.12) berfungsi untuk mengatur ruang kelas pada setiap prodi beserta dengan kuotanya.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/hseWwj8-nYfgZPbpVE95k-m1Kbu07lHfnNyr-mhqoYe9MWTE-DjGEiz0hqB4IgYGW5ZjecIMWR1ViwmvzFIXfJJ6NtMAYeCcsbCH8_buNNROtjFhbNBVxVmCVsZL8QtsAEhOCgO5ffZb2YsOsgohACfvkIL0g1d2I49Ism5r1VlU9cw3VeHo1tQtTA" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.12. Daftar Ruang Kelas</em></strong></p>
+
+
+
+<h2>4.7. Kelas Perkuliahan</h2>
+
+
+
+<p>Halaman Kelas Perkuliahan (Gambar 4.13.) digunakan mengatur kelas perkuliahan yang ada di tiap program studi pada tiap semester.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/A4fwHkrauSgl6FAY5ey36_KceQ7PLzJsP9XNV4zGMCy_5gwZU64AsQscP2JALbN_3m0BRueBAjvAupHpXqZJePkzzkHkaQunWqRKn6QKWNv7kqNM2J22y1V8YCfapTBLSv0a56Wn_QIazMZ30uIH_Vu38_qCPz58HZ3_gwLxj99b8UtBwyE3SW3b" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.13. Halaman Kelas Perkuliahan</em></strong></p>
+
+
+
+<p>Pada kolom Action terdapat beberapa tombol antara lain:</p>
+
+
+
+<ol><li>Edit: untuk mengedit kelas perkuliahan</li><li>Pindah Kelas: untuk memindahkan mahasiswa dari kelas perkuliahan yang satu ke kelas perkuliahan yang lain</li><li>Hapus Kelas: untuk menghapus kelas perkuliahan</li></ol>
+
+
+
+<p>Untuk menambah kelas perkuliahan tekan tombol Tambah Kelas kemudian akan muncul halaman seperti gambar 4.14.&nbsp;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/sJwqegKp-10AgZ3KHUhTwDFweI-ModPPz89xA0bouRpl6Q46xvjnzgGj8yQxpg1qKYJ5yrms2wcp5YYE5LCWj42A0vyhor3oq8NthS0yPmCL5wTQzHDg8awz_9jeYmtoFI2bwG1cxtU8y4GOX9z9qygxcQDee1FQbPYR0QwQ7hUBKvi9SVWwJJrI" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.14. Halaman Tambah Kelas Perkuliahan</em></strong></p>
+
+
+
+<p>Pada halaman Tambah Kelas Perkuliahan</p>
+
+
+
+<ol><li>Pada <strong>Kode Mata Kuliah</strong> tekan tombol <strong>Pilih Mata Kuliah. </strong>Kemudian akan muncul dialog Mata Kuliah (Gambar 4.15.)</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/pwClUq0IURO6ixQ477Umljg2bbpn9hgdCZ3ddELYRZnmuHFlv-rpR_hW53Kl-8XWaZfUZXHWucZwKFjaa-haKOlHgKn9i4bjs5m4Sq3PIBroswq1BLCkKul7csrVXJeexD6yCQRqN5igqDXj38qp40rHm1Uoc1UCXnF_JL4mZvwO8wVjiggC4BAl" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.15. Dialog Mata Kuliah</em></strong></p>
+
+
+
+<ol start="2"><li>Pada dialog Mata Kuliah tekan tombol panah pada mata kuliah yang ingin dibuat kelas perkuliahan</li><li>Pilih <strong>Semester</strong> perkuliahan, masukkan <strong>Nama Kelas perkuliahan</strong>, pilih <strong>Jenis Kelas</strong> dan masukkan <strong>Kapasitas kelas.&nbsp;</strong></li><li>Tekan tombol <strong>Save</strong> untuk menyimpan kelas perkuliahan ke database</li><li>Setelah kelas perkuliahan berhasil disimpan kemudian akan muncul tab baru yaitu <strong>Peserta, Staf, Jadwal, Transfer, Komponen, Penilaian, Isi Absensi </strong>dan<strong> Daftar Absensi.</strong></li></ol>
+
+
+
+<h2>4.7.1. Kelas Perkuliahan &#8211; Tab Peserta</h2>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/DRGjm5j271Yy5CyfzZ-dSdwlEaKWkbC8wKcNUi47CzV7sYdJV5Pc2ovUxaxxOrZw0lJOUcS1BFTFt8XV_2PR2DJorbW2AGhpbUhBPfb6n85q9oKvat6zmxgWFGqiesz0vCQ4xp7tSIodzTl6z2g5UrBbZCwcmH70WoIXASQsZHc2kIps2CQV6hwk" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.16. Kelas Perkuliahan &#8211; Tab Peserta</em></strong></p>
+
+
+
+<p>Tab peserta (Gambar 4.16.) berguna untuk menampilkan mahasiswa yang telah terdaftar sebagai peserta kelas perkuliahan. Admin dapat menghapus peserta kelas perkuliahan dengan menekan tombol delete pada kolom Action.</p>
+
+
+
+<h2>4.7.2. Kelas Perkuliahan &#8211; Tab Staff</h2>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/bAeOlUE64Ca777dyX0Ie7Q-FJsp5p6Uv5wY2YZpOYl-ikHZQMmi-6YRR29EKZzEkUkrWtsoLPOzdHfrBLy-XqIJkTaA1InYt7_WEYo2vWqxFkuimV6NhLibFekPIahW8U6QniyVRLzg9kI8ioLfjGIMTNBttVWzpQYFlAGddAW5T0t7WXpvTT30y" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.17. Kelas Perkuliahan &#8211; Tab Staf</em></strong></p>
+
+
+
+<p>Tab staf (Gambar 4.17.) berguna untuk mengatur dosen atau pegawai yang ada pada suatu kelas perkuliahan. Admin dapat memasukkan atau menghapus pegawai dari suatu kelas perkuliahan.</p>
+
+
+
+<h2>4.7.3. Kelas Perkuliahan &#8211; Tab Jadwal</h2>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/7taGpxidCjSINZbNBDmOS9WvsGHNeY_EUpjCuRxLgeMu5JEDTp6hPW58GwUw-y6rKttuWcLylKxGNvA9CCXd8_itmcF4ZAMx8nRb7Ce0YjdlKK5JsO3vKIrPORTebM91kvzUX_qPlydQYE6AzrvMUZJo5MrP6EC-e2_V0h9D5TKIwnkG1PSrGFbR" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.18. Kelas Perkuliahan &#8211; Tab Jadwal</em></strong></p>
+
+
+
+<p>Tab jadwal (Gambar 4.18.) berguna untuk mengatur jadwal kelas perkuliahan. Admin dapat mengatur <strong>Periode</strong> tanggal kelas dimulai dan berakhir, waktu <strong>pukul</strong> perkuliahan dimulai dan selesai, <strong>hari</strong> perkuliahan dilaksanakan, jenis <strong>sesi</strong> perkuliahan dan <strong>ruang</strong> tempat perkuliahan berlangsung.</p>
+
+
+
+<h2>4.7.4. Kelas Perkuliahan &#8211; Tab Transfer</h2>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/z7tDxIDbo4EWI5NXEZXtrxa1J_ng_X6jl6tsL8NZUhppqotV6iGKMr4QIWiMXT8nXCWcJUpBk5UGTbyrQfoP8SGg1elzy3v6mrRSrRRD18bFMdtH07jXUKboifnJQPkjkBnajxvKi-vheZJA8HdC07LFlPrFIRnTSIKI4NCa1Q53TKS3gs6u2PnP" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.19. Kelas Perkuliahan &#8211; Tab Transfer</em></strong></p>
+
+
+
+<p>Tab transfer (Gambar 4.19.) berguna untuk melihat mahasiswa yang telah ditransfer ke dalam kelas perkuliahan ini.</p>
+
+
+
+<h2>4.7.5. Kelas Perkuliahan &#8211; Tab Komponen</h2>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/ARUJ_Pp18REQZLIcWwX8yFnQZUS7pXKAK6nB5ML-QYnmQ9--PKARN3q1DmNe5ou92kjPSTIxEtabB8Rbpv3v71xvHJtdDCvrLz6NHMBYJ3xmb0j59AbWyeBW-JCDGTQkgvEHGsBjksMGThARn77Cb1p9SjrFk4q3OTdQ1Wpa92GeC91oP3rXd5kX" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.20. Kelas Perkuliahan &#8211; Tab Komponen</em></strong></p>
+
+
+
+<p>Tab Komponent (Gambar 4.20.) berguna untuk mengatur komponen penilaian yang dipakai pada kelas perkuliahan. Dalam kelas perkuliahan bisa terdapat banyak komponen penilaian yang terdiri atas bobot penilaian dan nilai maximal yang bisa didapat. Misal dalam kelas perkuliahan terdapat komponen penilaian UTS dan UAS yang masing-masing mempunyai bobot 50% terhadap nilai akhir penilaian.</p>
+
+
+
+<p>Admin dapat langsung mengisi nilai tiap mahasiswa dengan menekan tombol <strong>Input Nilai </strong>pada kolom Action pada tiap komponen sehingga akan keluar dialog seperti gambar 4.21.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/N5SkjPzBXJPHHZ4Fhds30Xj4yYLvmsCi38cebRtHcEm7CcGwttEvTfwuIVkdr2MVgPUNAUth1MV0oqy0OTO_WLCNzQk8r2lg9dmDtjhrMvS48YEItnCgHigyZ_T-vM68kQsCF25l3KBvbRkGXLGWXJFdWlyZ6qSYYkUHmMkLE3u1mabLW4pEn_gi" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.21. Kelas Perkuliahan &#8211; Mengisi NIlai per Komponen</em></strong></p>
+
+
+
+<p>Pada dialog Mengisi Nilai per Komponen masukan nilai pada kolom Nilai untuk tiap mahasiswa. Dan tekan tombol <strong>Simpan</strong> untuk menyimpan nilai ke dalam database.</p>
+
+
+
+<h2>4.7.6. Kelas Perkuliahan &#8211; Tab Penilaian</h2>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/6q1xtgqJui6eU4hyw2G6j4VYmhDXfIHsQSIeBSn4uoKEwoiLtliS84u8ik47UctL7FA4qlr_s-J_ycsdAhUKiSEH0MibGWG4_w5qIV2HXIYqBAFQdk9jmO1p2XZLkSryjg0yoV2m3Y1X2Xb_TOMNk-UPtiagskcYQ7bbtQvLfRnuGqtV9WB6_4xm" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.22. Kelas Perkuliahan &#8211; Tab Penilaian</em></strong></p>
+
+
+
+<p>Tab penilaian (Gambar 4.22.) berguna untuk mengatur nilai dari tiap mahasiswa yang mengikuti kelas perkuliahan. Pada tab penilaian terdapat 3 sub tab yaitu <strong>Daftar Nilai</strong>, <strong>Range Nilai</strong> dan <strong>Nilai Manual</strong>.</p>
+
+
+
+<p>Dalam sistem informasi akademik ini nilai mahasiswa bisa diperoleh lewat perhitungan semua komponen penilaian (Gambar 4.20.) atau bisa ditentukan secara manual lewat sub tab Nilai Manual.</p>
+
+
+
+<ul><li>Sub tab <strong>Daftar Nilai</strong> berisi daftar mahasiswa beserta Nilai Akhir, Nilai Huruf dan Nilai per Komponen, serta Metode penilaian. Kolom Nilai Akhir berisi hasil total dari Nilai per Komponen. Kolom Nilai Huruf ini tergantung pada metode penilaian. Apabila metode penilaiannya otomatis maka kolom Nilai Huruf didapat dari konversi Nilai Akhir ke huruf menggunakan tabel nilai, pada sub tab <strong>Range Nilai. </strong>Apabila metode penilaiannya manual maka Nilai Huruf tersebut tidak menggunakan data dari nilai per komponen tetapi didapat dari sub tab Nilai Manual.</li><li>Sub tab <strong>Range Nilai</strong> (Gambar 4.23) berisi aturan nilai yang berlaku pada kelas perkuliahan. Aturan ini digunakan untuk mengkonversi nilai akhir yang didapat dari perhitungan semua komponen penilaian ke nilai huruf. Misalkan komponen penilaian yang ada pada suatu kelas adalah UTS 50% dan UAS 50% dan seorang mahasiswa mendapatkan nilai UTS 93 dan nilai UAS 87 maka nilai akhir yang didapat adalah 90 dan apabila dikonversi ke nilai huruf menggunakan range nilai pada gambar 4.23 menjadi <strong>A</strong>.</li></ul>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/RQTja8zaZAFzhQ22ExxrpJCuK05J0rys2NJuKFfmG43ZT0kANj0wl9psyd9jnUidS38uZKeFPn2kwqwGJOqx4itmcUoH-Iuos1CWlygNGP2TWu8D-Fm3hSVMQiQ5PJEKrPziDcp2Ruk_vWClP2iurcyfW7kX27ZwDiJ_pbmtfe0E9MiyBisoa_Xf" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.23. Kelas Perkuliahan &#8211; Range Nilai</em></strong></p>
+
+
+
+<ul><li>Sub tab <strong>Nilai Manual</strong> digunakan untuk menetapkan nilai mahasiswa secara manual dan tidak menggunakan komponen penilaian yang ada (Gambar 4.24). Untuk menetapkan nilai secara manual centang nilai huruf pada kolom Nilai dan centang checkbox pada kolom lock kemudian tekan tombol <strong>Simpan</strong>. Maka nilai yang dipakai oleh mahasiswa ini adalah nilai manual dan nilai akhir dari perhitungan nilai per komponen akan diabaikan.</li></ul>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/EKrKEB-srIbRtmEyscmU3pMZLK5zEpI9TLxmP7anI_oNwyVMLfymUM1L9Cq0wDj_fdZfsaHFAyL3eL_OWXNvhL0UlF4SmhrIK-JJxjFGFKMGYjaPeAC7w7KkcX98JjzVGqLSKiMJDV-vrq23mO5xhAPnfDD8o_uYbr8oYBt68dZF6EOth-n-EV4X" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.24. Kelas Perkuliahan &#8211; Nilai Manual</em></strong></p>
+
+
+
+<h2>4.7.7. Kelas Perkuliahan &#8211; Tab Isi Absensi</h2>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/LhD3E0Jmn9i9wYIDBDwDxxBbIYvifyRbfIq9Ckjf9UNyOEs61XgkxS-OVkQu8mRvOazB8Md2_z33E-_NDddGVnb6_oWEJCGjG3HSzt-71ZG5StbBsQQgqCAR_eEKjkqbqO1rC0F7EL9zmp8FvjNzRfKC8xh2URYzpTvq-gjKtsVS0vO4EeO6HHbB" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.25. Kelas Perkuliahan &#8211; Tab Isi Absensi</em></strong></p>
+
+
+
+<p>Tab isi absensi (Gambar 4.25.) berguna untuk mengisi absensi pengajar dan&nbsp; mahasiswa yang ada dalam kelas perkuliahan ini. Hasil dari pengisian absensi dapat dilihat pada Tab daftar absensi (Gambar 4.26.)</p>
+
+
+
+<h2>4.7.8. Kelas Perkuliahan &#8211; Tab Daftar Absensi</h2>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/YNvI3SZZ4v93NzyYitOECkbTvs9MS8lYSvzquSt1wAvmGPD0c1oiqK48NqFNsvJXkYpzVJ7w1URuxpb7tG05-Qp81QCe5J1JWG3ETC3IcLiEpnUGThWdhLsdJO9l2kkvCOMGEnFEoGmv2c6OMU6pfpkCw6H3lGS7dnpu6MEkaItD1nCtdGmsxb5o" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.26. Kelas Perkuliahan &#8211; Tab Daftar Absensi</em></strong></p>
+
+
+
+<p>Tab daftar absensi (Gambar 4.26.) berguna untuk melihat daftar kehadiran mahasiswa dan staf pengajar pada kelas perkuliahan.</p>
+
+
+
+<h2>4.8. Aktivitas Perkuliahan Mahasiswa</h2>
+
+
+
+<p>Halaman Aktivitas Perkuliahan Mahasiswa (Gambar 4.26.) digunakan mengatur aktivitas perkuliahan mahasiswa yang ada di tiap program studi pada tiap semester.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/71GoBIFFssjOmkkkSPksgwz6L0YH_EwFu2rjnqVRUoqVhQ6QtoJZzS7rbQykp1VB69FnPxsTv5L1SU_xrAcEbNtt6QfDnVHN9OVZs3cBFDRq1SiSKdanNAmuH7uUcANmMFr8MBC5eTRhfI1c-ZhuzztG_r96vNQ2Sy63Qp47ovCz_HY_AXSqadyZ" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.26. Halaman Aktivitas Perkuliahan Mahasiswa</em></strong></p>
+
+
+
+<p>Untuk menambah aktivitas perkuliahan mahasiswa tekan tombol Tambah Aktivitas kemudian akan muncul halaman seperti gambar 4.27</p>
+
+
+
+<p class="has-text-align-center"><img loading="lazy" src="https://lh6.googleusercontent.com/_JaR2bNAzXiFMZqXXCfpBr2q2Dzd3J2-Ad-NOCL6EkhcyUpr5EM_7st45kj42bHGpql3f_suNbR8gZQX2yl3x9uzYpCSHbhOW7sIH1Vo6U7El_PYl48KDcGFIpgXZv0UDIrbVPcqtooRFiOzkvjWA16aoD-H6w-rH7zYr7n8wbZy2nb34Yy7jSaw" width="436" height="407">.&nbsp;</p>
+
+
+
+<p class="has-text-align-center"><strong><em>Gambar 4.27. Halaman Tambah Aktivitas Perkuliahan Mahasiswa</em></strong></p>
+
+
+
+<p>Pada halaman Tambah Aktivitas Perkuliahan Mahasiswa</p>
+
+
+
+<ol><li>isi field <strong>Mahasiswa</strong>, <strong>Semester</strong> dan <strong>Status Mahasiswa</strong></li></ol>
+
+
+
+<p>Tekan tombol <strong>Save </strong>untuk menyimpan data ke database</p>
+<div class="fb-background-color">
+			  <div 
+			  	class = "fb-comments" 
+			  	data-href = "/menu-perkuliahan/"
+			  	data-numposts = "10"
+			  	data-lazy = "true"
+				data-colorscheme = "light"
+				data-order-by = "social"
+				data-mobile=true>
+			  </div></div>
+		  <style>
+		    .fb-background-color {
+				background: #ffffff !important;
+			}
+			.fb_iframe_widget_fluid_desktop iframe {
+			    width: 100% !important;
+			}
+		  </style>
+		  <p>The post <a rel="nofollow" href="/menu-perkuliahan/">Menu Perkuliahan</a> appeared first on <a rel="nofollow" href="/">Amelaris University Manual Book</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Master Data</title>
+		<link>/master-data/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 06:59:31 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=30</guid>
+
+					<description><![CDATA[<p>Menu master data berisi sekumpulan halaman yang mengatur data-data yang sifatnya mendasar dan digunakan pada seluruh bagian aplikasi sistem informasi akademik. Berikut akan dijelaskan tiap halaman secara mendetail. 3.1. Fakultas Halaman daftar fakultas (Gambar 3.1.)&#160; berfungsi untuk menambah atau mengubah fakultas yang ada di universitas. Pada kolom Action pengguna bisa mengklik tombol lihat detail, edit&#8230;&#160;<a href="/master-data/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Master Data</span></a></p>
+<p>The post <a rel="nofollow" href="/master-data/">Master Data</a> appeared first on <a rel="nofollow" href="/">Amelaris University Manual Book</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Menu master data berisi sekumpulan halaman yang mengatur data-data yang sifatnya mendasar dan digunakan pada seluruh bagian aplikasi sistem informasi akademik. Berikut akan dijelaskan tiap halaman secara mendetail.</p>
+
+
+
+<h2>3.1. Fakultas</h2>
+
+
+
+<p>Halaman daftar fakultas (Gambar 3.1.)&nbsp; berfungsi untuk menambah atau mengubah fakultas yang ada di universitas. Pada kolom <strong>Action</strong> pengguna bisa mengklik tombol lihat detail, edit atau hapus fakultas yang ada.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/M_WiF397xyJ4brWAYbPuRtsiDTTkP_Kt_iIXDTOrti-nF02OHXQInRH0gk-GTktf8MVesgXFgkpLJV8OaZv2Hpp3xTg8m3tzBWwsF4VfIMYdXymprdxxWVrpmZQCzvmFwCYrfDiyrOVNdGZGxkWYmXg7eeRhQIaccLYSrwO_LlTr4f5S9wtw34Lq" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.1. Halaman Daftar Fakultas</em></strong></p>
+
+
+
+<p>Untuk menambah fakultas tekan tombol <strong>Tambah Fakultas</strong> pada toolbar kemudian akan muncul tampilan Gambar 3.2.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/Y5DHwHfBmhyEwwtmvsq_EW0oGBILBvOJULfbPuIyoMimXzeStEVswU0K_8-pW9TBI30D1bPbQhUt028T7K53od_h0askL-ZuW_Pucc7CJ3GpD_CRrYKr0gCdgy88TeAS4gX4ByR-f53lnI4zRWIBk6FIw689aNvFTTCLmIrfCwJeMsZUwakeE8yV" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.2. Halaman Tambah Fakultas</em></strong></p>
+
+
+
+<ol><li>Pada halaman ini diwajibkan untuk mengisi semua field yang ada: <strong>Nama Fakultas</strong>, <strong>Kode Fakultas</strong>, Memilih <strong>Dekan</strong> dan <strong>Wakil Dekan</strong> dari fakultas tersebut.</li><li>Setelah selesai kemudian pengguna bisa menekan tombol <strong>Save.&nbsp;</strong></li></ol>
+
+
+
+<h2>3.2. Program Studi</h2>
+
+
+
+<p>Halaman program studi (Gambar 3.3.) berfungsi untuk menambah atau mengubah program studi yang ada pada suatu fakultas. Pengguna bisa menggunakan dropdown fakultas pada toolbar untuk merubah fakultas yang aktif dan melihat program studi yang ada pada fakultas yang terpilih.&nbsp;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/uVMJyKTXKA7-6K5eRn4YJbot8TXZy6KUNgPviefMJUfxll_s7gZw1ruN3fCtDL955B3HIHQoAvWhHXPHz1qRlhY2M8JAwIiCc4la_bToqh2Fd9vsXFHYzuYwvmPOuiK7OmBTCNku087Ts6RfUvzZz158Hehm7uILAiaxtqLkPmFY_782OahYe02E" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.3. Halaman Daftar Program Studi</em></strong></p>
+
+
+
+<p>Untuk menambah program studi, tekan tombol <strong>Tambah Program Studi. </strong>Kemudian akan muncul tampilan gambar 3.4. :</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/2IHkMI_37lnKxbDni5sHCqT1lli4utzkn85XgSe5yx8rnF-EUhsY10Ku6D8Cie-KeEMOqQbQwKSzYeH6QK9MqonurJFQDOvdhJDC0oaeSz0Vtl5_ktqG-Ab_b2kVJ87g8o7I-pjtYH5_t2h-yIzLboT3DkEazvRJKiKnsjPY9b-6G1hwzxqwUQTR" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.4. Halaman Tambah Program Studi</em></strong></p>
+
+
+
+<ol><li>Silahkan isi <strong>Nama Program Studi</strong>, <strong>Kode Program Studi</strong>, Pilih <strong>Ketua Program Studi</strong>, <strong>Sekretaris Program Studi</strong>, dan bila perlu isi juga: Akreditasi Status, Nomor Akreditasi, Kode Forlap, SMS Code untuk feeder</li><li>Tekan tombol <strong>Save</strong> untuk menyimpan data ke dalam database</li></ol>
+
+
+
+<h2>3.3. Semester</h2>
+
+
+
+<p>Halaman daftar semester (Gambar 3.5.) ini digunakan untuk menambah semester yang ada pada universitas. Perlu diperhatikan bahwa Semester harus dimasukkan dengan urut&nbsp; apabila tidak maka sistem tidak akan berfungsi dengan baik.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/vX-wyAL_K3MY4sQYqsYa4RpX6_BxBleVxs3ZytbDBfpLhnbjzIu-aiwjCAsKMSIaE4NOdE5HwMisWuYc_mix17RcnYWGrDGPbw4Gd7-A6szX1fgcle9lYbnfZmwZ17Od7b_stmgE5euDskVztpqarB68e9ofJueo13hA_Rj9KKHq4zIA9xbbaKGl" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.5. Halaman Daftar Semester</em></strong></p>
+
+
+
+<p>Untuk menambah semester tekan tombol <strong>Tambah Semester. </strong>Kemudian akan muncul tampilan gambar 3.6. :</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/m97PHldlzH2Tg9WBrqLiHljg6iTJs2X2qmbQpePx52OVW_9u8qbgYuMTuGurbAx17VAfgqfVmMu6exHob5o4y_BbBJc8BjGxTXI854wq7MwPFtXNowyoCCPtziXX_b2JCbmBrG6VOVLasyo6mfmjnmuOPXEuQVBDPDlFll-GXeAl9j3C6zKD_zD2" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.6. Halaman Tambah Semester</em></strong></p>
+
+
+
+<ol><li>Pada halaman ini silahkan isi <strong>Kode Semester</strong>, <strong>Tahun</strong> dan jenis semester <strong>Ganjil atau Genap</strong></li><li>Tekan tombol <strong>Save</strong> untuk menyimpan data</li></ol>
+
+
+
+<h2>3.4. Jenis Mata Kuliah</h2>
+
+
+
+<p>Halaman Jenis Mata Kuliah (Gambar 3.7.) ini berisi data jenis mata kuliah yang ada pada universitas. Jenis mata kuliah yang sudah ada adalah <strong>Wajib</strong> dan <strong>Pilihan</strong>.&nbsp;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/50BX3oFzOYL30JgpQjZf1xXIYevBC86KpZXx-CUMWE937jQk07bsydCzBkycz-vqMlrft-9xyobraPNuy51J0SDoz2rAp8lDUJnqn3vLpden3E-H2hyarYoWAh5lvwOwsfFdA47zWMI67N7KCkFJa-EKnOqamvruiUrK_syXONQMnwYwbWQ6La7k" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.7. Daftar Jenis Mata Kuliah</em></strong></p>
+
+
+
+<p>&nbsp;Untuk menambah jenis mata kuliah tekan tombol <strong>Tambah Jenis MK</strong> kemudian akan muncul tampilan Gambar 3.8.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/BqtzFrJonW3RILz_jqM3QhT58HD-FB7kOgNGf9d2zOm4-KgnabqWXR0vyRSqV-3e8xbjdzXyj42ku2foJ-xsSLP3DgUviSV7tTDRm_hZrjB0X5SNvDJqJYH-Gz5LBDWgzkWIdw1-6PRZb5rzKD7wOYnmQE4GtCWe9Dsg9_rwTdStO_SL9bCdaYGH" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.8. Halaman Tambah Jenis Mata Kuliah</em></strong></p>
+
+
+
+<ol><li>Masukkan <strong>Nama Jenis Mata Kuliah</strong> dan <strong>Kode Jenis Mata Kuliah</strong></li><li>Tekan tombol <strong>Save</strong> untuk menyimpan<strong> Jenis Mata Kuliah </strong>ke database</li></ol>
+
+
+
+<h2>3.5. Kelompok Mata Kuliah</h2>
+
+
+
+<p>Halaman Kelompok Mata Kuliah (Gambar 3.9) berisi data Kelompok Mata Kuliah yang ada pada universitas.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/AZU42vC2Sdd7suYMmV6zqb3V0bAnKwt8g3dUKrYs6GfmGdyTl_uc2uEvQyUSmpZis1McGXqZ8rVKeWt_GOPOm-gxMKn6EaGXGEk2-8RJ6YiX5CZiO2lQhjHNw_rBFWJfW4FAS2kuU2JvfF5gyL6w8dGhHQtN6R9Lq_YjEFMi7jp_8iui97IL1aYG" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.9. Halaman Daftar Kelompok Mata Kuliah</em></strong></p>
+
+
+
+<p>Untuk menambah kelompok mata kuliah tekan tombol Tambah Kelompok Mata Kuliah kemudian akan muncul tampilan gambar 3.10.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/VVdM4sxKrNdbCYxD7Vpt4H7Vv2tcjYaXGvLKH1Q3MlCTZk_RNXvT0PjEczGHod-xn4VTO64ASp3cA-3ZTwoCvUGEGMzqBwmCfD97FuHBfn-NOc6Klxn7q3sLj5GDxz44ZKKuUgj4UoTav-CRiLf3G-hZjGgZH1JW3gY5qNQ400VqdKbz8usPlalp" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.10. Halaman Tambah Kelompok Mata Kuliah</em></strong></p>
+
+
+
+<ol><li>Masukkan <strong>Kode Kelompok Mata Kuliah</strong>, <strong>Nama Kelompok Mata Kuliah </strong>dan <strong>Singkatan</strong></li><li>Tekan tombol <strong>Save</strong> untuk menyimpan Kelompok Mata Kuliah ke dalam database</li></ol>
+
+
+
+<h2>3.6. Ruang</h2>
+
+
+
+<p>Halaman Daftar Ruang (Gambar 3.11.) berisi daftar ruang beserta kapasitas yang ada di universitas.&nbsp;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/0LGy7MON7wd-BAaZXFx4wzHXMF-3cOe_Bxi3fnGr1HQus717hRzMcou0PxWTOfV_Qmw5ihkIEpQkYt_c-lz4Osz5SlE1SlIBEdM0q4wUYGzKMUqVnJIT9ly19g6e34JZeNhzOywfCL6z79Ko_0KZ4A9zsDvNi10a6lq5H9mKv-Tu5iST-uiYyNai" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.11. Halaman Daftar Ruang</em></strong></p>
+
+
+
+<p>Untuk menambah Ruang tekan tombol Tambah Ruang, kemudian akan muncul tampilan gambar 3.12.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/Z8LEElSYQv8K6QbfNoSsy3g0j76r7OC1HTuv0SadFAD5-Z16pyLbg8t-ipeZ5qCMoZ86ELCL7X29ySsk-ftn3l2XGxtdZDudm06qJSRmQ0y0pMaMv4dFEWVm5wqIJbSdW4CpaOsrw6u1Ib3R7yuIx129lwfDF_u0f-nlf393ZqzJF-7uh3mLX-Uf" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.12 Halaman Tambah Ruang</em></strong></p>
+
+
+
+<ol><li>Masukkan <strong>Nama Ruang</strong>, <strong>Kode Ruang</strong> dan <strong>Kapasitas Ruangan</strong></li><li>Tekan tombol <strong>Save</strong> untuk menyimpan data ruangan ke database</li></ol>
+
+
+
+<h2>3.7. Nilai</h2>
+
+
+
+<h3>3.7.1 Tabel Nilai Universitas</h3>
+
+
+
+<p>Halaman tabel nilai universitas (Gambar 3.13) berisi semua nilai yang dipakai dalam sistem akademik ini. Admin dapat menggunakan halaman nilai untuk mengkonversi nilai dalam bentuk angka ke dalam bentuk simbol. Misal Nilai A+ didapat apabila mahasiswa telah mendapatkan nilai angka minimum 96 dan nilai A+ ini mempunyai bobot 4, bobot ini nanti akan dipakai dalam perhitungan IP sementara atau kumulatif. Selain itu tiap nilai juga mempunyai status Lulus atau Tidak Lulus. Status ini menandakan apakah dia lulus atau tidak dalam mengambil sebuah mata kuliah.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/EqahCMZpsVcX6C0qWkGL6zqu-i_VPG5WKAkWRlVGS6zsROC64qe30GdwhWupE3ltkecGhWKOyKJvyZvGf35Y3yODtwuj745kG-86fbKHEPyFg8_jS6akbOpL9x9_OwUJGYnmXaCXbGy2eSyxPNgqhc8Sf0t4GDJ1o1km9a224JOG_GfcC-4neG9_" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.13. Halaman Daftar Nilai Universitas</em></strong></p>
+
+
+
+<p>Untuk menambah suatu nilai tekan tombol Tambah Nilai kemudian akan muncul dialog seperti gambar 3.14.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/d_hhMJJqsfnGJOCM6nvVNwIINilDWaGJms1t3CPQmbtDGAuRvmpox5c3IyJDkTDYElbU7DH5h1ScIfwON75blAM3ELiLtVEtcU39tJk-bB4garsP7RdXtvHPUHr5PoNzLe1WJ74Pr0-dulC7l4-qzGAyQfM_YUuTwXJHh6r0JK1Qz4HF5ctuhAfx" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.14. Dialog Update Nilai Universitas</em></strong></p>
+
+
+
+<ol><li>Masukkan <strong>Simbol</strong>, <strong>Mutu, </strong>nilai <strong>Max, </strong>nilai <strong>Min</strong> dan pilih <strong>Status </strong>kelulusan</li><li>Tekan tombol <strong>Save</strong> untuk menyimpan nilai ke database</li></ol>
+
+
+
+<h3>3.7.2 Tabel Nilai Program</h3>
+
+
+
+<p>Setiap program studi yang ada dapat mengubah standar nilai minimum dan maksimum dari suatu nilai huruf sehingga mempunyai standar nilai minimal dan maksimal yang berbeda dengan yang telah ditetapkan universitas. Misal pada program studi A seorang mahasiswa dapat memperoleh nilai A+ jika ia telah mengumpulkan nilai angka minimal 95, nilai ini lebih rendah dari nilai minimal pada universitas yaitu 96. Hal ini bisa dilakukan melalui halaman tabel nilai program studi (Gambar 3.18.)</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/NQPMeHz3zx4LjdR1qlMUAtyfxTIdA5cRQ34XzjgvLB7x-_sapiA-ofAR97eu4hl21tlqWVzL2aMdCc1SvsTEbW9sXHbX84gM8S0E4YHeNhFake08EeqAyvznIvcYaIqoaMls49moKGcnAyZTf8f3n7cT9_FN-FRKX1lwG3L-7Zr-TN-eQqFdHeo6" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.18. Halaman Daftar Nilai Program Studi</em></strong></p>
+
+
+
+<p>Untuk mengubah suatu nilai tekan icon edit pada kolom Action kemudian akan muncul dialog seperti gambar 3.19.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/pv4_IvVckj3gMTLQ9MF4MPnYJ0pEHG5U_AifGPPG-t84MzRINHtIs2XLg3b5j3ECLeExBU7_FJe9d_SGPQPvOD4MT8DmvxCsx2SnNXD6O_FTEtY7-YNAZVDp1SoXt8te7Cj5NNCMgzBL0ZBs5ZWINNc0djP9hgajk4K-uWEONM0XhxkV8Dg_0mLt" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.19. Dialog Update Nilai Program</em></strong></p>
+
+
+
+<ol><li>Masukkan nilai <strong>Max </strong>dan<strong> </strong>nilai <strong>Min</strong>&nbsp;</li><li>Tekan tombol <strong>Save</strong> untuk menyimpan nilai ke database</li></ol>
+
+
+
+<h3>3.7.3 Tabel Skala Nilai</h3>
+
+
+
+<p>Halaman Skala Nilai ini berisi daftar cakupan Nilai IPK dan IPS beserta Predikat kelulusan yang ada pada siakad. Predikat kelulusan pada halaman ini akan dipakai sebagai acuan pada lembar transkrip nilai.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/25jUNIUQScvFj0vEULN__wzen4i9SpuSwm3KYtHbWAYp9QeItaIwLbjlieIDx_-m8iZntCP756jkHmG0ZujlmBD5YMVgz3MIzhUWNFv4BlL_PFg95XPN49Ui5mBdmZn1h9LlDsYY-wlm9sQvKLYq1-BPnFU8waZPWwIHm1tXOXauv8u7wvNQlt5T" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.20. Halaman Skala Nilai Universitas</em></strong></p>
+
+
+
+<p>Untuk menambah skala nilai tekan tombol Tambah Nilai kemudian akan muncul dialog seperti gambar 3.21.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/1nWWC0RfHlooWYTGUO_J90cPO387eVvi5KDpWSfr1D90nbBD23B3blXSYJnbdgR6e11b9cb9gjmV8MSsCLGkca7Yg9bE5S0p00bvtWdyBaBGT6urFjkNY_o8TXep_i7_Au4-f7oXJRrQxsv5hc_LFDvyxJCG_JNDzvRww2anWthL61YhB3gNhXBH" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.21. Dialog Tambah Skala Nilai</em></strong></p>
+
+
+
+<ol><li>Masukkan <strong>Predikat</strong>, <strong>IPS/IPK Max, IPS/IPK Min</strong> dan pilih <strong>Status </strong>kelulusan</li><li>Tekan tombol <strong>Save</strong> untuk menyimpan tabel skala nilai ke database</li></ol>
+
+
+
+<h3>3.8. Besar Beban Studi Semester</h3>
+
+
+
+<p>Halaman Besar Beban Studi Semester (Gambar 3.22.) digunakan untuk mengatur jumlah mata kuliah yang dapat diambil mahasiswa per semesternya berdasarkan jumlah SKS yang diambil pada semester sebelumnya dan IP yang didapat semester ini.&nbsp;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/KkwMIK_8f44uGe8il9kgJjlN0Ds8PwkChmrwmOHTZ_72wSKlwlBRC_JhyGGuyqEZHmV89gdGwVmCmYoZ1bM2sQcqtJ608Of65xBStrQWr1VSMPPy7b8ljDHCl1AHkHJKbVMaXcXCeaN3MO1k0p4DQIH5yi9-JGyPlpdY1dCKNIr9Cxuy7La872Po" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.22. Halaman Daftar Penetapan Besar Beban Studi Semester</em></strong></p>
+
+
+
+<p>Untuk menambah aturan baru tekan tombol Tambah Aturan kemudian akan muncul dialog seperti gambar 3.23.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/v0T6tuRqiKwDVyt6b-5QyXnIfpcIZo4LTjNuVxAv9cz12sky7D9JKgKIV_dbY-Q7MlQJGK0vnGjUmKDdgfL9f7Z9qdDNnl9xJUYlZF8XgavSDonXGejcTTcj18PbybtArfNJn7YfCqgcPWezRjPkBF8tyAP4HOuZLhf_SaNGq6yQ1QmIXb1TDLiY" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.23. Dialog Tambah Aturan Beban Studi Semester</em></strong></p>
+
+
+
+<ol><li>Masukkan range <strong>Jumlah SKS semester lalu</strong>, <strong>IP semester ini</strong> dan Jumlah SKS yang diambil<strong>&nbsp;</strong></li><li>Tekan tombol <strong>Save</strong> untuk menyimpan aturan beban studi ke database</li></ol>
+
+
+
+<h2>3.8. Report Manager</h2>
+
+
+
+<p>Halaman Report Manager (Gambar 3.24)&nbsp; digunakan untuk mengupdate tampilan report yang ada pada sistem informasi akademik ini.</p>
+
+
+
+<h1><img loading="lazy" src="https://lh5.googleusercontent.com/Vb1D8jkLKgcbFeRJCpJ6jKU3JHUwjFiaeM9RVW1KnPPrQD__CJ5MUne4cwTeZ4LltkwFgGchEb5-E_FMUn72P1qYxNVNFXJSoecoMsNY0amM4FMJDKmMzdXRk5xdV5TO01ikxrN0CThwFQLUkBusUNhnU7VW4uvQVzcSH2Vdik-TXJl9mfJ2rGNjwg" width="548" height="192"></h1>
+
+
+
+<p class="has-text-align-center"><strong><em>Gambar 3.24. Halaman Report Manager</em></strong></p>
+
+
+
+<p>Terdapat 3 tab yaitu Universitas, Fakultas dan Program Studi. Setiap tab merupakan lingkup report tersebut, sehingga setiap fakultas atau program studi dapat mempunyai report yang berbeda-beda.&nbsp;</p>
+
+
+
+<p>Untuk mengubah code report klik tombol <strong>Edit</strong> kemudian akan muncul pop up dialog <strong>JRXML Editor</strong>, kemudian user dapat mengupdate code report sesuai dengan keperluan dan tekan tombol <strong>Save</strong> untuk menyimpan perubahan code.</p>
+
+
+
+<p>User juga dapat mendownload report jrxml file nya dengan menekan tombol <strong>Download,</strong> dan mengupdate isinya kemudian menguploadnya lagi dengan menekan tombol <strong>Upload </strong>kemudian memilih file yang telah diupdate.User juga dapat melihat error log dengan menekan tombol <strong>Log</strong>.</p>
+<div class="fb-background-color">
+			  <div 
+			  	class = "fb-comments" 
+			  	data-href = "/master-data/"
+			  	data-numposts = "10"
+			  	data-lazy = "true"
+				data-colorscheme = "light"
+				data-order-by = "social"
+				data-mobile=true>
+			  </div></div>
+		  <style>
+		    .fb-background-color {
+				background: #ffffff !important;
+			}
+			.fb_iframe_widget_fluid_desktop iframe {
+			    width: 100% !important;
+			}
+		  </style>
+		  <p>The post <a rel="nofollow" href="/master-data/">Master Data</a> appeared first on <a rel="nofollow" href="/">Amelaris University Manual Book</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Halaman Login</title>
+		<link>/halaman-login/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 06:48:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=27</guid>
+
+					<description><![CDATA[<p>Sebelum masuk ke dalam sistem informasi akademik ini admin harus login lewat alamat http://namadomain.com/admin/login. Kemudian masukkan username dan password pada form Login Admin (Gambar 2.1.). Username yang dipakai berupa email. Apabila anda berhasil login anda akan masuk ke halaman Dashboard (Gambar 2.3.) Gambar 2.1. Halaman Login Apabila anda lupa password anda dapat menekan link forgot&#8230;&#160;<a href="/halaman-login/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Halaman Login</span></a></p>
+<p>The post <a rel="nofollow" href="/halaman-login/">Halaman Login</a> appeared first on <a rel="nofollow" href="/">Amelaris University Manual Book</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Sebelum masuk ke dalam sistem informasi akademik ini admin harus login lewat alamat http://namadomain.com/admin/login. Kemudian masukkan username dan password pada form <strong>Login Admin </strong>(Gambar 2.1.). Username yang dipakai berupa email. Apabila anda berhasil login anda akan masuk ke halaman <strong>Dashboard</strong> (Gambar 2.3.)</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/JQ4TXaD64FLtsMy3qtChUiyskblR3BdLLhmKfjDB7n1NxIw8vRAsAgWoTmjqrbB-kh0lGPLPn75xewnE-djs_qhnFTTPKl0ubxep5-H_TntknBVqZr0tzNzh0Tt4CbdB1cfBl3nRYEDrmdtmpivlDmKExjfInBBzlWiEBUCh12lzWYTTNO01hQO-UQ" alt=""/></figure></div>
+
+
+<p><strong><em>Gambar 2.1. Halaman Login</em></strong></p>
+
+
+
+<p>Apabila anda lupa password anda dapat menekan link <strong><em>forgot your password? </em></strong>Yang berada di bawah tombol Login. Kemudian pada halaman <strong>Forgot Password</strong> (Gambar 2.2.) masukkan email dan tekan tombol <strong>Kirim </strong>kemudian sistem akan mengirim link untuk mereset password anda ke email yang telah anda masukkan tadi.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/6zqxJv8z-UyUzSgWGeTyQB0QEze1u4JEgyENV3GMuzO1O6eqZsyNlr_e7OAYI_NtsXKShE6dL1SqMbPldcu15rXEceLRxD3HzRm_mC3L8bXZlbMUzeIRTgeV3JNp_6qJpI9DCKCU9HqYDCXGOVNryhRKM944IN06f1-029DivxvWR2a7WrUgJdXN" alt=""/></figure></div>
+
+
+<p><strong><em>Gambar 2.2. Halaman Forgot Password</em></strong></p>
+
+
+
+<p>Setelah berhasil login admin akan masuk halaman dashboard (Gambar 2.3.).</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/lMx5FQO2ehBimiiJ03ujOfKivaF66Opxz-qcCeDUQ0GCCN991F_pSZ1N4T9iR7U7Fu0FwYBWX0nOw8qtnL_NW_25HjHcxUllQck4w_I0eHd0CAYcQES8bv7IAeh68p9h8HLpVmlad30y6woOnqD-2EZZWGHBacrZisFH3zJRHjRzHAC-MUUYjwRYLw" alt=""/></figure></div>
+
+
+<p><strong><em>Gambar 2.3. Halaman Dashboard</em></strong></p>
+
+
+
+<p>Pada halaman Dashboard terdapat beberapa informasi diantaranya:</p>
+
+
+
+<ol><li>Jumlah mahasiswa baru</li><li>Jumlah mahasiswa per tahun</li><li>Jumlah mahasiswa berdasar tahun masuk&nbsp;</li><li>IPK berdasar jalur masuk</li></ol>
+
+
+
+<p>Dan juga terdapat beberapa link untuk mempercepat pengaturan dalam universitas yang diantaranya adalah:&nbsp;</p>
+
+
+
+<ol><li>Update Detail Universitas</li><li>Tambah Fakultas</li><li>Tambah Program Studi</li><li>Tambah Semester</li><li>Update Term Berjalan</li><li>Tambah Kurikulum</li><li>Tambah Mata Kuliah</li><li>Tambah Staff / Dosen</li><li>Tambah Kelas Mata Kuliah</li><li>Tambah Paket Kelas Mata Kuliah</li><li>Tambah Event Akademik</li><li>Tambah Pembimbing Akademik</li></ol>
+
+
+
+<p>Admin mempunyai beberapa menu diantaranya:</p>
+
+
+
+<ol><li>Master Data</li></ol>
+
+
+
+<p>Menu Master Data berfungsi untuk mengatur fakultas, semester, program studi, Jenis Mata Kuliah, Kelompok Mata Kuliah, Ruang, Nilai, Beban Studi</p>
+
+
+
+<ol start="2"><li>Perkuliahan</li></ol>
+
+
+
+<p>Menu Perkuliahan berfungsi untuk mengatur kalender akademik, mata kuliah, paket mata kuliah, kurikulum, kelas perkuliahan dan mengatur aktivitas perkuliahan mahasiswa untuk tiap setiap program studi per semester.</p>
+
+
+
+<ol start="3"><li>Mahasiswa</li></ol>
+
+
+
+<p>Menu Mahasiswa berfungsi untuk mengatur mahasiswa pada tiap program studi, mengatur IRS, mengatur transfer SKS, mengatur mahasiswa yang telah lulus atau drop out, mengatur transkrip mahasiswa.</p>
+
+
+
+<ol start="4"><li>Staf</li></ol>
+
+
+
+<p>Menu Staf berfungsi untuk mengatur staf, dan mengatur staf yang menjadi pembimbing akademik.</p>
+
+
+
+<ol start="5"><li>Jadwal</li></ol>
+
+
+
+<p>Menu Jadwal berfungsi untuk mengatur jadwal kelas perkuliahan dan mengatur jadwal ujian.</p>
+
+
+
+<ol start="6"><li>Biaya Perkuliahan</li></ol>
+
+
+
+<p>Menu Biaya Perkuliahan digunakan untuk mengatur data bank, kategori tagihan, periode tagihan, jenis tagihan, daftar tagihan mahasiswa.</p>
+
+
+
+<ol start="7"><li>kuesioner</li></ol>
+
+
+
+<p>Menu kuesioner digunakan untuk mengatur kuesioner kinerja dosen, mulai dari pertanyaan yang ditampilkan, pilihan jawaban, template, sampai hasil pengisian kuesioner tiap mahasiswa</p>
+
+
+
+<ol start="8"><li>PMB</li></ol>
+
+
+
+<p>Menu PMB digunakan untuk mengatur segala sesuatu yang berkaitan dengan penerimaan mahasiswa baru mulai dengan jenis ujian, jenis berkas persyaratan, periode pendaftaran, user calon mahasiswa baru, hingga proses seleksi penerimaan calon mahasiswa menjadi mahasiswa baru.</p>
+
+
+
+<ol start="9"><li>Analytics</li></ol>
+
+
+
+<p>Menu Analytics berisi reports atau laporan dan charts atau grafik yang memudahkan pengguna dalam melihat statistik mahasiswa</p>
+
+
+
+<ol start="10"><li>Setting</li></ol>
+
+
+
+<p>Menu setting berfungsi untuk mengatur data profil universitas, persetujuan IRS, user dan password feeder, seting SMTP, reset tabel lock, reset tabel cache feeder .</p>
+
+
+
+<ol start="11"><li>User</li></ol>
+
+
+
+<p>Menu profile berfungsi untuk mengatur nama user, email, password user yang sedang aktif dan logout.</p>
+<div class="fb-background-color">
+			  <div 
+			  	class = "fb-comments" 
+			  	data-href = "/halaman-login/"
+			  	data-numposts = "10"
+			  	data-lazy = "true"
+				data-colorscheme = "light"
+				data-order-by = "social"
+				data-mobile=true>
+			  </div></div>
+		  <style>
+		    .fb-background-color {
+				background: #ffffff !important;
+			}
+			.fb_iframe_widget_fluid_desktop iframe {
+			    width: 100% !important;
+			}
+		  </style>
+		  <p>The post <a rel="nofollow" href="/halaman-login/">Halaman Login</a> appeared first on <a rel="nofollow" href="/">Amelaris University Manual Book</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Sekilas Pandang Mengenai Amelaris University</title>
 		<link>/sekilas-pandang-mengenai-amelaris-university/</link>
 		
