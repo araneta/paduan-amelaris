@@ -12,7 +12,7 @@
 	<atom:link href="https://docs.amelaris.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://docs.amelaris.com/</link>
 	<description>Sistem informasi akademik universitas berbasis REST API yang ramah pengguna, efisien dan fleksibel</description>
-	<lastBuildDate>Thu, 06 Oct 2022 07:18:38 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Oct 2022 06:57:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,12 +28,554 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Menu Mahasiswa</title>
+		<link>https://docs.amelaris.com/menu-mahasiswa/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 07 Oct 2022 06:36:02 +0000</pubDate>
+				<category><![CDATA[Role Admin]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://docs.amelaris.com/?p=45</guid>
+
+					<description><![CDATA[<p>Menu mahasiswa berisi halaman Mahasiswa, Pengisian IRS, Transfer SKS, Lulus / Drop Out, Transkrip dan Skripsi/Tesis. 5.1. Mahasiswa Halaman Mahasiswa berfungsi sebagai tempat mengatur semua data mahasiswa yang ada pada universitas. Terdapat dua tampilan yaitu tampilan berdasar program studi atau tampilkan tanpa program studi. Gambar 5.1. Halaman Daftar Mahasiswa Berikut adalah tombol-tombol yang ada di&#8230;&#160;<a href="https://docs.amelaris.com/menu-mahasiswa/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Menu Mahasiswa</span></a></p>
+<p>The post <a rel="nofollow" href="https://docs.amelaris.com/menu-mahasiswa/">Menu Mahasiswa</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Menu mahasiswa berisi halaman Mahasiswa, Pengisian IRS, Transfer SKS, Lulus / Drop Out, Transkrip dan Skripsi/Tesis.</p>
+
+
+
+<h2>5.1. Mahasiswa</h2>
+
+
+
+<p>Halaman Mahasiswa berfungsi sebagai tempat mengatur semua data mahasiswa yang ada pada universitas. Terdapat dua tampilan yaitu tampilan berdasar program studi atau tampilkan tanpa program studi.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/lzj8W1bM56tU-WVrr1OkpBaWilu_YuG2GlzefmB9Fwe9R693djEQRc-QQDtBUvZ8cCzA9IW2hzBmKM2QlFJB5W0TV8nSTYuZ6aTSFwu_eTTVOrIxmYkuWsdm1ahaFCuwboQnFrmSuxpFtrGwnDcJt2sAxMFQwOFNTmf73Q8GyuBClviu4eS-dnXF" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.1. Halaman Daftar Mahasiswa</em></strong></p>
+
+
+
+<p>Berikut adalah tombol-tombol yang ada di kolom Action:</p>
+
+
+
+<ol><li>Lihat Isian Data Mahasiswa: halaman ini berisi data pribadi mahasiswa</li><li>Update Mahasiswa: halaman ini untuk mengupdate data mahasiswa</li><li>Hapus Mahasiswa: tombol untuk menghapus mahasiswa</li><li>Riwayat Pendidikan Mahasiswa: untuk melihat riwayat pendidikan mahasiswa</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/Z400PtpA-IsUm_aLN2hRCU3MycsFpQOJcimwgs37JXD8zcs32v5qPtAqpPFAUBMIZxCJ3VXEgR31WdGUF1E7eJRn_FnwMZLCjQ4Fmu7sd8vjdOqMmH5iCFczU0R_MCxU1KPufg38EZMFMVfpLgN3wxKLt3cfvIxh0rFY4TEUhBXOaVn81U5hDRus" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.2. Halaman Daftar Mahasiswa per Program Studi</em></strong></p>
+
+
+
+<p>Berikut adalah tombol-tombol yang ada di kolom Action:</p>
+
+
+
+<ol><li>Lihat Isian Data Mahasiswa: halaman ini berisi data pribadi mahasiswa</li><li>Update Mahasiswa: halaman ini untuk mengupdate data mahasiswa</li><li>Data Akademis Mahasiswa: halaman ini berisi nilai IPS dan IPK mahasiswa beserta detail nilai per mata kuliah</li><li>Riwayat Pendidikan Mahasiswa: untuk melihat riwayat pendidikan mahasiswa</li></ol>
+
+
+
+<p>Untuk menambah Mahasiswa tekan tombol Tambah Mahasiswa kemudian akan muncul halaman seperti gambar 5.3.</p>
+
+
+
+<ol><li>Masukkan <strong>Nama, Email, Password, Jenis Kelamin, NIK, Nama Ibu, Tempat Lahir, Tanggal Lahir, Agama, Kewarganegaraan, Kelurahan, Kecamatan, Kode Pos, No HP, Penerima KPS, NISN, NIK Ayah, Nama Ayah, NIK Ibu, Nama Ibu. </strong>Field lainnya adalah opsional dan boleh dikosongi.&nbsp;</li><li>Tekan tombol <strong>Save </strong>untuk menyimpan data mahasiswa ke database</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/F-82mhlwxYKURmnymKjQ0d01dmR8C4f70bmsoRSQ6ZckXmndSmmPZpNzo7ZM1spvlC7kbr9S7nFdQEebyQhkFzBJz8UHDaZZURfU3Ko7x0NfQImbxnvU3Ox9kWFbvMtlD5mmd1Dft1tNyqKdhwq863I7kamkPFnWNQjddzj5f2wEXz2g3lVdj218" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.3. Halaman Tambah Mahasiswa</em></strong></p>
+
+
+
+<h2>5.1.1. Mahasiswa &#8211; Riwayat Pendidikan Mahasiswa</h2>
+
+
+
+<p>Halaman Riwayat Pendidikan Mahasiswa (Gambar 5.4.) berisi daftar pendidikan yang telah diambil oleh mahasiswa tersebut. Pendidikan yang dimaksud juga bisa berasal dari universitas lain.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/uFBPFXWZ1DaX-6kw03c6wQcW8y5i-i3gVnqHUFJ-pGHyLlHOtckJjYaaZcqhLibr7pRMi5uj4i-LmcRbLbQxghZ5ALpMM8QPxqS2qYi9LcnlgIDx9ImPr6PSVkiEHOTj0XFazryQxM3QTiyvlm-j_6i5P-zXe2WFeRja8FOAJ-_hRQ-Kv44a3k86" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.4. Halaman Riwayat Pendidikan Mahasiswa</em></strong></p>
+
+
+
+<p>Pada halaman Riwayat Pendidikan Mahasiswa terdapat panel di sebelah kiri yang berisi link ke halaman:</p>
+
+
+
+<ol><li>Detail Mahasiswa</li><li>Aktivitas Perkuliahan Mahasiswa</li></ol>
+
+
+
+<p>Pada halaman riwayat pendidikan mahasiswa, admin dapat menambah riwayat pendidikan dengan menekan tombol Tambah Pendidikan sehingga akan muncul dialog History Pendidikan (Gambar 5.5.).</p>
+
+
+
+<p>Pada dialog History Pendidikan :</p>
+
+
+
+<ol><li>Masukkan <strong>NIM, Jenis Pendaftaran, Jalur Pendaftaran, Tanggal Pendaftaran, Program Studi, Periode Pendaftaran. </strong>Field lainnya adalah opsional dan boleh dikosongi.&nbsp;</li><li>Tekan tombol <strong>Save </strong>untuk menyimpan data riwayat pendidikan ke database</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/FOPPQHUCjixs4XUwczXcADs2KGd7hdee9H5eRclugasIt9hYCMgnWtgRVPM7oLFwTGo2FngEqR67ij7iLLcFsKwxU3uisubdyBtI5p2tK0S3sd8HVMwd9eY51qOSe-z70JxR10Qmg_7vVIiT3ka-XQNb9QaqctQdqh2u50NNLrSoE6toTaNkLT_VFg" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.5. Dialog Riwayat Pendidikan</em></strong></p>
+
+
+
+<h2>5.1.2. Mahasiswa &#8211; Aktivitas Perkuliahan Mahasiswa</h2>
+
+
+
+<p>Halaman Aktivitas Perkuliahan Mahasiswa (Gambar 5.6.) berisi daftar aktivitas perkuliahan mahasiswa tersebut per semester beserta nilai IPS, nilai IPK, dan jumlah SKS yang telah diperoleh tiap semester. Untuk menambah aktivitas perkuliahan mahasiswa silahkan lihat sub bab 4.8. Aktivitas Perkuliahan Mahasiswa.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/ik_LjWhVofEsw6wQpJ34_d8St9CCY9CNb7OIeSYj18TsOHnAxbha3BzPquNcilbTVIQ1Hm0C7yCM67qm33BmKXzAqZy6dFFWEz6KHHJlw9-4D4oUHcA2xHZ7Gr3TvgxyuNfkbo74gGvPvE01SRdKJDH2lMrCmByeFVTpp7yiYOa0qcl06bDbHloV" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.6. Halaman Aktivitas Perkuliahan Mahasiswa</em></strong></p>
+
+
+
+<h2>5.1.3. Mahasiswa &#8211; Data Akademis Mahasiswa</h2>
+
+
+
+<p>Halaman data akademis mahasiswa (Gambar 5.7.) menampilkan data IPK dan SKS yang telah diperoleh oleh mahasiswa beserta dengan grafik IPS per semester.</p>
+
+
+
+<h2 class="has-text-align-center"><img loading="lazy" src="https://lh6.googleusercontent.com/efcKkk_Kmb_JhPfPcSWcItm4ZDtUZtuqPt44AnqEiA-_aN1CGx7jrId3-I_16c8ieDXqSUI149OqmI4CYZqH4Wt7MQG7--gtGZ3xs_udNj-CnA-A16J4VBUsL3ciPNZREW9AnYiTDjoRqmy14IUENU1Ro9aj6L8sog5_n3FKEdqQnFEH8Xa78HEU" width="548" height="316"></h2>
+
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.7. Halaman Data Akademis Mahasiswa</em></strong></p>
+
+
+
+<p>Pada bagian bawah terdapat tab Ringkasan, Riwayat dan Status Akademis.</p>
+
+
+
+<ul><li>Tab Ringkasan (Gambar 5.8.) berisi Mata Kuliah yang telah diambil, SKS yang diperoleh, IPS dan IPK per semester.</li><li>Tab Riwayat berisi 3 sub tab yaitu Per Semester (Gambar 5.9), Per Mata Kuliah (Gambar 5.10) dan Transfer SKS (Gambar 5.11)</li><li>Tab Status Akademis (Gambar 5.12) berisi status mahasiswa per semester beserta nilai IPK dan IPS dan jumlah SKS pada semester tersebut.</li></ul>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/J90hk6FneovriGYU6p22gob3EFEV5pCme2Mt96x6zCLod74FYY84IeW_ymRlL_u3RFUEiBXtkUo-_X3D1ClaN4t_ADvQOQ1P2V3rTn4tr7hyZ6LWalc0ECFuVX5Z3vt-EzvdBzE1sbpq1VpF4_diMaWxQVx690VYt1nzqoYAXRrqFiEUWTHSkA3S" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.8. Halaman Data Akademis Mahasiswa &#8211; Tab Ringkasan</em></strong></p>
+
+
+
+<p>Pada Tab Ringkasan (Gambar 5.8) terdapat tabel yang berisi data jumlah mata kuliah yang diambil per semester, jumlah SKS dan juga nilai IPS dan IPK per semester. Selain itu anda juga dapat mencetak KHS dengan menekan link Print</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/GpRUan54cjhAbMcpNqhDuXoJh84Vic2_3Q55rdY0njnuDikZyBokgNQUsRo1k46zYvLR2D88_SAkbQtqyiaapeKlC1PuP6oZabWls0kj3fsk2VZsWbAphjhGwXFEjAESW3IlV_X3lxgnDrURBqp35t7l0KLzmTAQqYX0dQVx7THEg9G0Eh6AHToo" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.9. Halaman Data Akademis Mahasiswa &#8211; Tab Riwayat &#8211; Per Semester</em></strong></p>
+
+
+
+<p>Pada Tab Riwayat &#8211; Per Semester (Gambar 5.9) terdapat tabel yang berisi data mata kuliah yang diambil per semester beserta nilai akhir dan nilai huruf dari mata kuliah tersebut. Anda juga dapat melihat nilai per komponen dengan menekan link Detail.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/kD7ot1g3XGDANld0FbBeqYTf10y4YfRCrYcYzeetvQww-VbvA_ccdHysbF4RTbbYIqvT9qxgu9c5F8Dqeni6rlj0lZeiswp2CiUe4IfgySlJsgHsKeKtlHRZ0lg5NQ8kYDJuP491h9SCjvi5Hwq34L9BSEFb1iUTf72VkJEmJqzDl8aVOoL98N4M" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.10. Halaman Data Akademis Mahasiswa &#8211; Tab Riwayat &#8211; Per Mata Kuliah</em></strong></p>
+
+
+
+<p>Pada Tab Riwayat &#8211; Per Mata Kuliah (Gambar 5.10) terdapat tabel yang berisi mata kuliah yang telah diambil mulai dari semester awal hingga saat ini, beserta dengan jumlah SKS dan nilai yang diperoleh mata kuliah tersebut.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/7uaHHkO9sJLu43qlJu1vFu8wQ3KYNCUNtVazRiBvmDmXjl6luAkp3VMA5tJ5LIQWsrcv-EOvgwGcu4xnNV2cj_e4PGqxTgDr7eq49ePNNa2xuCjrfP4c6G8-BxQoS2ModiNsfDsAEV8lJV2Q-o_u5714qmryKKx3ZLkJ-KYwEUHj4QhF1wsxYkG7" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.11. Halaman Data Akademis Mahasiswa &#8211; Tab Riwayat &#8211; Transfer SKS</em></strong></p>
+
+
+
+<p>Pada Tab Riwayat &#8211; Transfer SKS (Gambar 5.11) terdapat tabel yang berisi mata kuliah yang didapat dari transfer mata kuliah dari universitas lain atau universitas yang sama namun beda jurusan.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/eRnvGOpdh-SXwSO5zcjxyAK_vgaXeUXaxFEfZQTYKkLsXiQ_Eq6DzOGvXOdVnyuG9ki3zWufwG0QuFQidqIPhP_dGSYY_zuHOG0XC4OS7Fo98I4kedmvbh-1ZniNKYT471ISQo7UMOhleMjNp5UsIrrWvlxnVQ6Zryrp9YuiK8bInoJOeRe-vIbm" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.12. Halaman Data Akademis Mahasiswa &#8211; Tab Status Akademis</em></strong></p>
+
+
+
+<h2>5.2. Pengisian IRS</h2>
+
+
+
+<p>Mahasiswa bisa mengisi IRS jika:</p>
+
+
+
+<ol><li>mahasiswa aktif : sudah bayar spp dan isi kuesioner, dan jika data dari puskom sudah masuk ke siakad</li><li>semester aktif prodi sudah diset</li><li>sudah dibuat event pengisian IRS di kalendar akademik dan sudah masuk waktu pengisian IRS</li><li>mahasiswa masuk kurikulum semester aktif prodi</li><li>kelas sudah dibuat di prodi dan semester aktif</li></ol>
+
+
+
+<p>Halaman Pengisian IRS (Gambar 5.13) berfungsi sebagai tempat untuk melihat data mahasiswa yang telah melakukan pengisian IRS pada tiap semester.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/cAW5bDVVgZ74jinj3F7UdIhGiAxxT4QGe_0urb9SKqkQu3XNZWlhQVF6lQyTeqSAOJ2n5WBybLfLgSdGJm6E_IU79n1AOyO_ZLTFAj2q3GLMqigtmq7X_L9uqtbYJYQEcABGVp90g_QxaUv91Ml59nOEZJtlkEdlasWY7e0lirwhhIvgiLpdbgAx" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.13. Halaman Pengisian IRS</em></strong></p>
+
+
+
+<p>Untuk melihat mata kuliah apa saja yang diambil oleh mahasiswa tersebut klik link Detail. Pada halaman Detail IRS terdapat beberapa tab yaitu:</p>
+
+
+
+<ul><li>Tab Ringkasan (Gambar 5.14) berisi mata kuliah yang ada pada IRS beserta status IRS tersebut&nbsp;</li><li>Tab Kelas (Gambar 5.15) berisi informasi tentang mata kuliah yang ada pada IRS beserta kelas perkuliahan beserta jadwal, ruang dan pengajar kelas tersebut.</li><li>Tab Jadwal (Gambar 5.16) berisi kalender beserta keterangan mata kuliah dan ruang tempat perkuliahan&nbsp;</li><li>Tab Pengecekan (Gambar 5.17) digunakan untuk mengecek apakah IRS bermasalah misalnya ada jadwal yang bentrok, jumlah SKS yang diambil melebihi ketentuan dan lain-lain</li><li>Tab Pembimbing (Gambar 5.18) berisi tentang dosen pembimbing akademik mahasiswa tersebut.</li></ul>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/1mDu-kwvkFM5TS5M65xG1B4APA0VaB-rBKZIf-C4Lg15AgBb1THo4LGPuMhgU8k-kP6psCb0AVV1A0MuZOGyCAdURjklWqamgXjfpFK8RNx_qj2lfkCTTy45AI-pKPRnBOaoJuBcdh1qChi9lQeNOTCRCACiIZs2JwAGnJf-S637a5xd6H53bTrq" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.14. Halaman Pengisian IRS &#8211; Tab Ringkasan</em></strong></p>
+
+
+
+<p>Pada Tab Ringkasan terdapat data mengenai status IRS dan mata kuliah apa saja yang dipilih oleh mahasiswa tersebut, jumlah SKS, sistem IRS yang dipakai, SKS maksimal yang bisa diambil, IP terakhir. Untuk memperbarui status IRS, pada field Status Baru pilih status IRS yang ada dan tekan tombol <strong>Save.</strong></p>
+
+
+
+<p>Admin juga bisa menambah mata kuliah ke dalam IRS dengan menekan tombol <strong>Tambah Mata Kuliah </strong>atau mencetak IRS dengan menekan tombol <strong>Cetak IRS.</strong></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/fLQCtoftOAmX9rXzXWLAHlAen0r8-bZSzLzivlJvvfIc3UcgntWrKT45OpziQsB8I_BF8wFwYM0GLzonZAuSoBGbqNUWG8WkwetZWYGHbbaaqR1FMhzEJI7w6WnQXBHhN_7QLfzvtNdkhYRUAasiJD1GENTYRO25IQ-ZQllErvXJcQWFHXXD_1VY" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.15. Halaman Pengisian IRS &#8211; Tab Kelas</em></strong></p>
+
+
+
+<p>Pada Tab Kelas terdapat tabel yang berisi daftar mata kuliah yang ada pada IRS beserta nama kelas, jadwal perkuliahan, ruang dan staf pengajar kelas tersebut.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/EQsNt0Q9_8EUC9FPUW4-8c0eNxNeBxpOUe0-Hl92_O-5VJ5cXZpOmPb3GYYsFD1TFy0FrR8wK-ZuKtMVjMdhMk-P-celWM8YP57eqv-sttXIubiJcQl3d5gKdCHOjbV1YH0K6ZDFn0_u5Jow49_XUxAHisBE6Iarsvd9ymKsYfT6mwq97Pg0TZ-K" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.16. Halaman Pengisian IRS &#8211; Tab Jadwal</em></strong></p>
+
+
+
+<p>Pada Tab Jadwal adalah tampilan kalender kelas perkuliahan beserta tempat perkuliahan tersebut. Tampilkan kalender bisa diubah berdasarkan tampilan bulanan, mingguan atau harian, maupun agenda.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/eCPy4O6Slc3CpDQvB5AdZ53YIFsrenmX1_Zhsn8-9ubuKM70OV7zQxKPL8ZkeNH48SLDsxSqTPJFNke1nYUptCGBXBTMzNaizUhpmdVnanFkMvi9PzF61E6O3ohjPhq9xFSaXz4vUp06nGqhLQS-_1A0wiMu7Sm1MZsHUZs88V9goTq8ZEBeRmUT" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.17. Halaman Pengisian IRS &#8211; Tab Pengecekan</em></strong></p>
+
+
+
+<p>Pada Tab Pengecekan digunakan untuk mengecek apakah IRS tersebut layak untuk disetujui atau tidak. Pengecekan yang dilakukan adalah:</p>
+
+
+
+<ol><li>Jumlah SKS yang diambil apakah melebihi IP acuan atau tidak</li><li>Jadwal mata kuliah yang diambil apakah ada yang bertabrakan</li><li>Kelas perkuliahan apakah melebihi kapasitas atau tidak</li><li>Mata kuliah yang diambil apakah sudah memenuhi semua prasyarat atau belum.</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/waVBWoeveyv4C1QkToAYU1oRpOu2VrxgTpSnpRYibo6eTRi7eOXtcUJ4NgtKFSWImhxnK2mJ6ae62D_-1y5eNnemNmNGvuMquBeDwDObUosoI_nWlGnSFxp0Iei5ON_RwJnmVENJpTk4S57v-9XYaR3jGB6ehgyYu7ginHRT5VFmnuH8pZ-bcU9v" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.18. Halaman Pengisian IRS &#8211; Tab Pembimbing</em></strong></p>
+
+
+
+<p>Tab Pembimbing berisi tentang dosen pembimbing akademik mahasiswa tersebut.</p>
+
+
+
+<h2>5.3. Transfer SKS</h2>
+
+
+
+<p>Halaman Transfer SKS (Gambar 5.19) berfungsi sebagai tempat untuk melihat data mahasiswa yang berasal dari universitas lain atau jurusan lain yang melakukan transfer SKS.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/Z_jMj4iN95ZYIZ87eKKUd_QLnKuqfpKA4ZAeR_k6PtUABaWv2UowcBmzsQIaqvlevK5w978ZW84FCKV2HcCnJZfYuEl99YOufzi4ymAIS1vi6NuA0JPVU5GHBySkxTFpajaKGlezuu3i6buoMVXJOiboCUNywr4zCzEDeO66RXZ6MTAEmlrGDN1O" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.19. Halaman Transfer SKS</em></strong></p>
+
+
+
+<p>Untuk menambah data tekan tombol <strong>Tambah, </strong>kemudian akan muncul halaman <strong>Tambah Transfer SKS </strong>(Gambar 5.20).</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/q5vi9WXofBRivFIcxBfV8a_D9GrLZ1Z6EvprVlfiC0bk3M4PSrSWT5XTy0wG_7yix3iomdFwYioK2b0C0ctbgoiH_AyPsX3iB6hq-OnclnNg2T_xtOrK4roIzoCA_3BgjXtfNqJQ9uL5mGd_E5x9n82yE6H0TgWPyQLY6V4rRsOrlTJbWwXA_YGOrw" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.20. Halaman Tambah Transfer SKS</em></strong></p>
+
+
+
+<p>Pada halaman Tambah Transfer SKS:</p>
+
+
+
+<ol><li>Pada field <strong>Mahasiswa</strong> pilih mahasiswa yang akan mentransfer SKS</li><li>Masukkan asal universitas pada field <strong>Dari Universitas</strong></li><li>Masukkan asal program studi pada field <strong>Dari Program Studi</strong></li><li>Tekan tombol <strong>Save</strong> untuk menyimpan data ke database</li><li>Setelah data berhasil disimpan kemudian akan muncul tab baru <strong>Mata Kuliah</strong> (Gambar 5.21) yang digunakan untuk memilih mata kuliah mana saja yang akan ditransfer</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/LB4ytepcEBMn0ydbcwFSQ0UIIBH8n5mby0y572kz4B3XEkY27R6nU5CBUleuvY9-N7Ukb12JRaTAAXOhADL_o4k284SdgGM1BEVyTf0BLbsgzvETfpBXpLACZMmEJCUesatKV2LxoSyaZnkmH4NaDEDth432D9b39LsfamXTwPRB_g-asqZwNbz5" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.21. Halaman Tambah Transfer SKS &#8211; Tab Mata Kuliah</em></strong></p>
+
+
+
+<p>Pada Tab Mata Kuliah :</p>
+
+
+
+<ol><li>Pada field <strong>Kurikulum</strong> pilih kurikulum yang berisi mata kuliah yang akan ditransfer</li><li>Tekan tombol <strong>Tambah Mata Kuliah</strong> untuk memilih mata kuliah yang akan ditransfer SKS nya kemudian akan muncul dialog <strong>Mata kuliah&nbsp;</strong></li><li>Pada dialog <strong>Mata Kuliah </strong>(Gambar 5.22) cari dan pilih mata kuliah yang akan ditransfer kemudian centang</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img loading="lazy" width="644" height="428" src="https://docs.amelaris.com/wp-content/uploads/2022/10/FireShot-Capture-494-Edit-Post-Auto-Draft-‹-Amelaris-University-Manual-Book-—-WordPress_-https://docs.amelaris.com_.png" alt="" class="wp-image-50" srcset="https://docs.amelaris.com/wp-content/uploads/2022/10/FireShot-Capture-494-Edit-Post-Auto-Draft-‹-Amelaris-University-Manual-Book-—-WordPress_-https://docs.amelaris.com_.png 644w, https://docs.amelaris.com/wp-content/uploads/2022/10/FireShot-Capture-494-Edit-Post-Auto-Draft-‹-Amelaris-University-Manual-Book-—-WordPress_-https://docs.amelaris.com_-300x199.png 300w" sizes="(max-width: 644px) 100vw, 644px" /></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.22. Halaman Tambah Transfer SKS &#8211; Dialog Mata Kuliah</em></strong></p>
+
+
+
+<ol start="4"><li>Kemudian tekan tombol <strong>Pilih</strong> untuk menyimpan data ke dalam database.</li><li>Mata kuliah yang terpilih tersebut akan muncul pada tabel kemudian silahkan update <strong>Nilai Huruf Diakui, Kode Mata Kuliah Asal, .Nama Mata Kuliah Asal, SKS Asal dan Nilai Asal</strong> apabila perlu</li><li>Tekan tombol <strong>Save</strong> untuk menyimpan data ke database</li><li>Untuk menghapus mata kuliah dari daftar transfer, klik icon delete pada kolom terakhir dan tekan tombol <strong>Save </strong>untuk menyimpan data ke database</li></ol>
+
+
+
+<h2>5.4. Daftar Mahasiswa Lulus / Drop Out</h2>
+
+
+
+<p>Halaman Daftar Mahasiswa Lulus / Drop Out (Gambar 5.23) berfungsi sebagai tempat untuk mengelola mahasiswa yang keluar dari universitas mulai dari lulus, mutasi, dikeluarkan, mengundurkan diri, putus sekolah, wafat, hilang dan lain sebagainya.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/AWe6kddbTVZ1i47huIqbACFR_NMwJpFIcH6gntnKDonG2mjHxFNiSU8kGXTdHcXeEkcX3CBrONAugx3T3UG7kYACI7cCTRrMcRJJl8lFTGP-pZzBJevQqri-XWzEZ7a-HlZXStT0xR57yq-yR-j2YRcTIKxoFR2JXHG0-B9V8-gVUHp49lwB-V1p" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.23. Halaman Daftar Mahasiswa Lulus / Drop Out</em></strong></p>
+
+
+
+<p>Untuk menambah mahasiswa lulus atau dropout tekan tombol <strong>Tambah </strong>kemudian akan muncul halaman Tambah Mahasiswa Lulus / Drop Out (Gambar 5.24)</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/wKY_8gQ-XxPauYD-D7PV2yUzu_S4fhW5bTuhvn-VU-jFpgvQXlGwWIaNqEjhrXy6Biwba1UMpDokHgXYPR51U516aaShIgs5098ySYsQeVE2rn1bByQU0lEHvrsTA_-8B7wyCTO_Jk4wpBYVsGevLaC7Uj_Hf3KQkFa19HoxI8K4LqUjUc620OoHgw" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.24. Halaman Tambah Mahasiswa Lulus / Drop Out</em></strong></p>
+
+
+
+<p>Pada halaman Tambah Mahasiswa Lulus / Drop Out:</p>
+
+
+
+<ol><li>Pilih field <strong>Jenis Keluar, </strong>pilih alasan mahasiswa itu keluar dari universitas</li><li>Pada field <strong>Tanggal Keluar</strong>, <strong>Periode Keluar</strong>, isi kapan mahasiswa itu keluar. Isi field: <strong>Keterangan, SK Yudisium, Tanggal Yudisium</strong> bila perlu</li><li>Pilih mahasiswa dengan memilih angkatan atau range NIM atau pilih satu NIM&nbsp;</li><li>Tekan <strong>Save</strong> untuk menyimpan data ke database.</li></ol>
+
+
+
+<p>Untuk menghapus mahasiswa dari daftar mahasiswa lulus / drop out, klik icon delete pada tabel Daftar Mahasiswa Lulus / Drop Out pada kolom terakhir&nbsp;</p>
+
+
+
+<h2>5.5. Transkrip</h2>
+
+
+
+<p>Halaman Transkrip (Gambar 5.25) digunakan sebagai tempat mengelola transkrip mahasiswa yang ada.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/_j2tePzgvftgDXbZFLe2do6oCh38x122uigUTTaDnzEgUf7jMsVKWv8xm3qOO4qGJx5ufjytrmry2CINcpGhVkVJd9gc3jInuec1-_M-NN3D-WUd7rMsiKUnWBYx7qbh2ZHsl6JRtyWM_zBKPrFRimGVCCHDNz1Jmz3WG4K1saoy-DZ2pX1SP3qD" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.25. Halaman Transkrip</em></strong></p>
+
+
+
+<p>Untuk menambah transkrip tekan tombol <strong>Tambah Transkrip</strong> pada toolbar, kemudian akan muncul halaman Tambah Transkrip, terdapat dua tab yaitu Tab Sementara (Gambar 5.26) untuk transkrip sementara dan Tab Kelulusan (Gambar 5.27) untuk transkrip kelulusan. Untuk menghapus transkrip mahasiswa dari daftar transkrip, klik icon delete pada tabel Transkrip pada kolom terakhir&nbsp;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/uNPzP0hl_Ugu6ynAlOgJAL5Ckq6CwwhLpWJvyis0Srg6W616V-v7KhsAvYdx_4QnvNyZT9tC5yWbDjHrisx0xFaBePNAfXpKW1nCKteIvi9WsMu8f4kSbJpfbmWzOBXyUdqCDFA9eus3oOkO5vZzk2M9G44DNJD5RAYA96RbPLncVwEVLxBv1ejHZQ" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.26. Halaman Tambah Transkrip &#8211; Tab Sementara</em></strong></p>
+
+
+
+<p>Pada halaman Tambah Transkrip &#8211; Tab Sementara:</p>
+
+
+
+<ol><li>Pada field <strong>Mahasiswa</strong> pilih mahasiswa yang akan dibuat transkripnya dan tekan <strong>Save </strong>setelah data tersimpan kemudian akan muncul data mengenai&nbsp;</li></ol>
+
+
+
+<p><strong>Jumlah seluruh kredit, Jumlah SKS x Angka, IPK, Predikat Kelulusan </strong>dan akan muncul Tab Detail (Gambar 5.28) yang berisi data mata kuliah beserta jumlah SKS dan nilai yang diperoleh.</p>
+
+
+
+<ol start="2"><li>Isi field <strong>No Transkrip, Tanggal Transkrip</strong></li><li>Tekan <strong>Save</strong> untuk menyimpan data ke database.</li><li>Untuk menghitung kembali data transkrip dari tabel nilai tekan tombol <strong>Rebuild</strong></li><li>Untuk mencetak transkrip tekan tombol <strong>Print Transkrip Sementara</strong></li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/6I5VXAOQr9iLXD-E_-FeCzOqK_N2XJGrCNZBL3oj3pem1znmHfVA50dr3SHouNyCc0a0goJa0cslsiwCQXyaQzcFBrVsNTW-FyaZUAJKhxRZ15iVzCL1FkylAd7YKCNfq1c_MQVY1b-kV9E-Gm8ymFuN9uJuOPlBAAILCauJErp67ssqk8GII3tjHw" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.27. Halaman Tambah Transkrip &#8211; Tab Kelulusan</em></strong></p>
+
+
+
+<p>Pada halaman Tambah Transkrip &#8211; Tab Kelulusan:</p>
+
+
+
+<ol><li>Pada field <strong>Mahasiswa</strong> pilih mahasiswa yang akan dibuat transkripnya dan tekan <strong>Save </strong>setelah data tersimpan kemudian akan muncul data mengenai&nbsp;</li></ol>
+
+
+
+<p><strong>Jumlah seluruh kredit, Jumlah SKS x Angka, IPK, Predikat Kelulusan </strong>dan akan muncul Tab Detail (Gambar 5.28) yang berisi data mata kuliah beserta jumlah SKS dan nilai yang diperoleh.</p>
+
+
+
+<ol start="2"><li>Isi field <strong>Tanggal Kelulusan, No Transkrip, Tanggal Transkrip, No Ijazah</strong></li><li>Tekan <strong>Save</strong> untuk menyimpan data ke database.</li><li>Untuk menghitung kembali data transkrip dari tabel nilai tekan tombol <strong>Rebuild</strong></li><li>Untuk mencetak transkrip tekan tombol <strong>Print Transkrip Kelulusan</strong></li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/21RIIF2o3YZ8qfY12nCp-QF2Kp8iOpIyJNXMAVnH931BwglPvLYpPIba6hsAbzcOPh_BttZPtHEqQnfqnl5pkEgazdlyShUZDhHczMtMHmUZN2Osr5zLihGPmSvK-BH8tYNfyigkabhJeFFJdo5yP-Zw10jLJHXNzrXIhZn5FcoZ0_6YXHHE-TXc7A" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.28. Halaman Update Transkrip &#8211; Tab Detail</em></strong></p>
+
+
+
+<h2>5.6. Skripsi / Thesis</h2>
+
+
+
+<p>Halaman Skripsi / Thesis (Gambar 5.29) digunakan sebagai tempat mengelola skripsi/tesis mahasiswa yang ada.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/pZmdudUb37wmoN5k4-7q7p1NEdv_x7I1oOzKljrQ3kOoZre0ouP4jTFyAfD36dAH9AW6MFg0HMe5QQNfBxtRoDMBqsme4K4DF2AHCCno1CL2mDlLNyjI7br42B4DWJ_e1_wqb_iZUBquLCIcKGkNh9TGxbXwXfEUWwA1MMGvRBjkiIQA4Hihbrf7KA" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.29. Halaman Daftar Tesis/Skripsi</em></strong></p>
+
+
+
+<p>Untuk menambah tesis/skripsi tekan tombol <strong>Tambah </strong>pada toolbar, kemudian akan muncul halaman Tambah Tesis / Skripsi (Gambar 5.30)</p>
+
+
+
+<p class="has-text-align-center"><strong><em></em></strong><strong><em>Gambar 5.30. Halaman Tambah Thesis/Skripsi &#8211; Tab Review</em></strong></p>
+
+
+
+<p>Pada halaman Tambah Thesis &#8211; Tab Review:</p>
+
+
+
+<ol><li>Pada field <strong>Mahasiswa</strong> pilih mahasiswa yang akan dibuat judul Thesis / Skripsinya, masukkan <strong>Judul</strong>, pilih <strong>Jenis</strong> thesis/skripsi, <strong>Tanggal Mulai</strong> dan <strong>Tanggal Selesai</strong> mengerjakan thesis/skripsi</li><li>Tekan <strong>Save</strong> untuk menyimpan data ke database</li><li>Setelah data berhasil disimpan kemudian akan muncul tab <strong>Dosen Pembimbing</strong> (Gambar 5.31) dan tab <strong>Dosen Penguji</strong> (Gambar 5.32)</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/I4OAdXBEYeN1v_cFfTZLq_WKog6bWDRd-0_8xjkrhJ3wdt7bUuuLfGLozyNYiTqr8gUM2DXRErTtl0uCwhlLqLD7NnMJDBmGA82t_WjdiS0Z1R8UAoQoWOsS6ZpgFuk5ignzqQQ8d3Sceu3v_TBiSVmzTW5_KVTnb-fDd7FRWCtONLgJQXlKphN4yQ" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.31. Halaman Update Thesis/Skripsi &#8211; Tab Dosen Pembimbing</em></strong></p>
+
+
+
+<ol start="4"><li>Untuk menambah Dosen Pembimbing, click tab <strong>Dosen Pembimbing</strong> (Gambar 5.31) kemudian tekan tombol <strong>Tambah Dosen</strong> dan pilih dosen yang diinginkan</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/Tcym-b1wSfPhbYlDgWjD9y7cAJiPtcs3-PZDfwLlLY9LTJMQql_1RVlATchAIYtA-o4dLVSD6ZJESduz0JLFijM4VF87WtnCLxQyWTQt300fP_qcIHSyk2ZGzQtBWiazldr6ZLm7MiukkuSiHd4rexclqupuI6kEOzfQf9Dn166W91sFKfXewAiNZw" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 5.32. Halaman Update Thesis/Skripsi &#8211; Tab Penguji</em></strong></p>
+
+
+
+<p class="has-text-align-left"><br>Untuk menambah Penguji, click tab <strong>Penguji</strong> (Gambar 5.32) kemudian tekan tombol <strong>Tambah Dosen</strong> dan pilih dosen yang diinginkan</p>
+<div class="fb-background-color">
+			  <div 
+			  	class = "fb-comments" 
+			  	data-href = "https://docs.amelaris.com/menu-mahasiswa/"
+			  	data-numposts = "10"
+			  	data-lazy = "true"
+				data-colorscheme = "light"
+				data-order-by = "social"
+				data-mobile=true>
+			  </div></div>
+		  <style>
+		    .fb-background-color {
+				background: #ffffff !important;
+			}
+			.fb_iframe_widget_fluid_desktop iframe {
+			    width: 100% !important;
+			}
+		  </style>
+		  <p>The post <a rel="nofollow" href="https://docs.amelaris.com/menu-mahasiswa/">Menu Mahasiswa</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Menu Perkuliahan</title>
 		<link>https://docs.amelaris.com/menu-perkuliahan/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 07:05:52 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Role Admin]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://docs.amelaris.com/?p=34</guid>
 
 					<description><![CDATA[<p>Menu perkuliahan berisi segala sesuatu yang berkaitan dengan proses perkuliahan mahasiswa 4.1. Rules Management Pada halaman Rules Management (Gambar 4.1.)&#160; terdapat 2 tab yaitu: Mahasiswa IPK Rendah, yaitu Daftar mahasiswa semester 1 dengan IPK kurang dari sama dengan 1.0 Syarat IRS dan KHS, yaitu apakah harus lunas UKT dan mengisi kuesioner Gambar 4.1. Halaman Kalender&#8230;&#160;<a href="https://docs.amelaris.com/menu-perkuliahan/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Menu Perkuliahan</span></a></p>
@@ -516,7 +1058,8 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 06:59:31 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Role Admin]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://docs.amelaris.com/?p=30</guid>
 
 					<description><![CDATA[<p>Menu master data berisi sekumpulan halaman yang mengatur data-data yang sifatnya mendasar dan digunakan pada seluruh bagian aplikasi sistem informasi akademik. Berikut akan dijelaskan tiap halaman secara mendetail. 3.1. Fakultas Halaman daftar fakultas (Gambar 3.1.)&#160; berfungsi untuk menambah atau mengubah fakultas yang ada di universitas. Pada kolom Action pengguna bisa mengklik tombol lihat detail, edit&#8230;&#160;<a href="https://docs.amelaris.com/master-data/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Master Data</span></a></p>
@@ -886,7 +1429,8 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 06:48:50 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Role Admin]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://docs.amelaris.com/?p=27</guid>
 
 					<description><![CDATA[<p>Sebelum masuk ke dalam sistem informasi akademik ini admin harus login lewat alamat http://namadomain.com/admin/login. Kemudian masukkan username dan password pada form Login Admin (Gambar 2.1.). Username yang dipakai berupa email. Apabila anda berhasil login anda akan masuk ke halaman Dashboard (Gambar 2.3.) Gambar 2.1. Halaman Login Apabila anda lupa password anda dapat menekan link forgot&#8230;&#160;<a href="https://docs.amelaris.com/halaman-login/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Halaman Login</span></a></p>
@@ -1061,7 +1605,8 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 05 Oct 2022 04:57:09 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Role Admin]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://docs.amelaris.com/?p=5</guid>
 
 					<description><![CDATA[<p>Amelaris adalah Sistem informasi akademik untuk universitas yang berfungsi untuk membantu mengatur kegiatan akademis di universitas mulai dari pendaftaran mahasiswa, pembuatan kurikulum, pengisian IRS, mengatur kegiatan perkuliahan, pembayaran uang perkuliahan hingga pembuatan transkrip nilai. Untuk dapat menggunakan sistem informasi akademik ini diperlukan koneksi internet. Sistem informasi ini terdiri atas 2 bagian yaitu aplikasi REST server&#8230;&#160;<a href="https://docs.amelaris.com/sekilas-pandang-mengenai-amelaris-university/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Sekilas Pandang Mengenai Amelaris University</span></a></p>
