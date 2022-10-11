@@ -12,7 +12,7 @@
 	<atom:link href="https://docs.amelaris.com/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://docs.amelaris.com/author/admin/</link>
 	<description>Sistem informasi akademik universitas berbasis REST API yang ramah pengguna, efisien dan fleksibel</description>
-	<lastBuildDate>Fri, 07 Oct 2022 06:57:16 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Oct 2022 02:07:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,334 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Menu Staf / Dosen</title>
+		<link>https://docs.amelaris.com/menu-staf-dosen/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 02:07:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://docs.amelaris.com/?p=52</guid>
+
+					<description><![CDATA[<p>Menu Staf berisi Daftar Staf, Tambah Staf, Daftar Pembimbing Akademik. 6.1. Daftar Staf Halaman Daftar Staf (Gambar 6.1.) digunakan mengelola semua staf yang ada di universitas. Anda dapat memfilter staf berdasarkan Unit / program studi dan Role. Terdapat beberapa role pada sistem informasi akademik ini yaitu: Admin Bagian Akademik, role ini ditujukan kepada pegawai yang&#8230;&#160;<a href="https://docs.amelaris.com/menu-staf-dosen/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Menu Staf / Dosen</span></a></p>
+<p>The post <a rel="nofollow" href="https://docs.amelaris.com/menu-staf-dosen/">Menu Staf / Dosen</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Menu Staf berisi Daftar Staf, Tambah Staf, Daftar Pembimbing Akademik.</p>
+
+
+
+<h2>6.1. Daftar Staf</h2>
+
+
+
+<p>Halaman Daftar Staf (Gambar 6.1.) digunakan mengelola semua staf yang ada di universitas. Anda dapat memfilter staf berdasarkan Unit / program studi dan Role.</p>
+
+
+
+<p>Terdapat beberapa role pada sistem informasi akademik ini yaitu:</p>
+
+
+
+<ol><li><strong>Admin Bagian Akademik</strong>, role ini ditujukan kepada pegawai yang bertugas mengatur master data, data mahasiswa, data staf, dan data akademik pada semua program studi. Pegawai dengan role Admin Bagian Akademik nantinya akan bisa login lewat https://namadomain.com/academic-admin/login</li><li><strong>Staff Bagian Akademik</strong>, role ini ditujukan kepada pegawai yang bertugas mengatur data akademik pada suatu program studi. Pegawai dengan role Sub Bagian Akademik nantinya akan bisa login lewat https://namadomain.com/academic/login</li><li><strong>Pengajar</strong>, role ini ditujukan kepada pegawai yang bertugas sebagai dosen pengajar. Pegawai dengan role Pengajar nantinya akan bisa login lewat https://namadomain.com/staff/login</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/wuscl9-OeVNbTHjNLTDJgk0z6KDnprZczNLub1dE_-1dMjop0_XNA8FHwjJY5O_m-Jyy5QYjZep0YDywcG61pEzf4eGLSvzjBv2qAZwDXwaqh0Ws2NuY2pnwx0VLyzCr9KcECGzJ0NVamNXY5g1r_YSBaCO2wO5Mh5fqPaEJLOxiOX1lgs5ItsPPkg" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 6.1. Halaman Daftar Staff</em></strong></p>
+
+
+
+<h2>6.2. Tambah Staf</h2>
+
+
+
+<p>Untuk menambah staf klik tombol <strong>Tambah Staf </strong>kemudian akan muncul halaman Tambah Staf (Gambar 6.2)</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/0Tk17vZDPbZY7cvCvrFlMVn3gBgdGqUY8AQirJF_YPgdRhQ7m9mIXw8-z6z9Qljtm0pgCiXVrquhMR4gKOkEtfk8FExVxSfSJDnEt2NFzq5MHS_8GAG-XiI2fxAZDRc2JBqutL3INVIaylLdI5Cvfx-4Pn5kXU6qmTTDjBCgbOx7X0fzQwKvv5Rx" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 6.2. Halaman Tambah Staf &#8211; Tab Data Staf</em></strong></p>
+
+
+
+<p>Pada halaman Tambah Staf:</p>
+
+
+
+<ol><li>Berikut ini adalah field yang wajib diisi:</li></ol>
+
+
+
+<p><strong>NIP</strong></p>
+
+
+
+<p><strong>Username</strong></p>
+
+
+
+<p><strong>Nama Lengkap</strong></p>
+
+
+
+<p><strong>Email</strong></p>
+
+
+
+<p><strong>No KTP</strong></p>
+
+
+
+<p><strong>Tempat Lahir</strong></p>
+
+
+
+<p><strong>Tanggal Lahir&nbsp;</strong></p>
+
+
+
+<p><strong>Jenis Kelamin</strong></p>
+
+
+
+<p><strong>Agama</strong></p>
+
+
+
+<p><strong>Status Perkawinan</strong></p>
+
+
+
+<p>Untuk dosen wajib mengisi <strong>NIDN</strong></p>
+
+
+
+<ol start="2"><li>Tekan <strong>Save</strong> untuk menyimpan data ke database.</li><li>Setelah data berhasil disimpan akan muncul beberapa tab yaitu: <strong>Tab Unit</strong>, <strong>Tab Admin Roles</strong>, <strong>Tab Riwayat Pendidikan</strong> dan <strong>Tab Alamat</strong>.&nbsp;</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/5jWm2UyUqq7Sw65MriYV4Fw3FV8NE6M4CQZhB0q9DDDDXohvk0N-lS82dEqEqPvLbd7VMhM7HyTpLJodFpxAb9GKSV5KUtYuQb_WWQbUcPhm1NKYrnaxnPipOnr_7dKw_NGgNuU360_zrZFdjX6ILtaNQVuYs1PBXkJoK58Zlsbs8E7KFCSRKh74dw" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 6.3. Halaman Edit Staf&nbsp;</em></strong></p>
+
+
+
+<h2>6.2.1. Tab Unit</h2>
+
+
+
+<p><strong>Tab Unit</strong> (Gambar 6.4) berfungsi sebagai tempat untuk menentukan role staf pada suatu unit / program studi. Dalam satu program studi, staf bisa memiliki beberapa role misal Staf Bagian Akademik dan Dosen/Pengajar</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/Pehuo73pO3FSbIO9Gfz8XFnxJajzzLfkYGfTYX4WMFhjoTViHKVmq8DmlbMS2OE3H5ZDW1wlcU_AEKbLpBaIubSmptZgUS8gyjy_MhZ5ruYnyiqPlsr1bpzcxB6tKY5UE9cHLfhk79CcSRarqAp1pX9GC-08r3HwESkxe7z0jJZ-9xGDzEJ41EcxEA" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 6.4. Halaman Edit Staf &#8211; Tab Unit</em></strong></p>
+
+
+
+<p>Untuk menambah role pada pegawai, klik tab Unit kemudian klik tombol <strong>Tambah Unit. </strong>Kemudian akan muncul dialog Tambah Unit (Gambar 6.5).</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/QGFxt6QKHhVtqUpcZwEzYZ9SpuqR8TY20HuY0TfXGm8CoDG9Ex-RjymmpRrWJ__dUra_TfWkDqo6K8Tw6qqamFDACsF0QY3SfzA0h-1iK263DmIjr-IR1z0VyouQEAmr5X05qmJ7HBZrdhdYoQBcUJOHiU8WdYzkMdzckVvffI_SX0mBFpR9FZ4tNg" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 6.5. Halaman Edit Staf &#8211; Dialog Tambah Unit</em></strong></p>
+
+
+
+<p>Pada dialog Tambah Unit:</p>
+
+
+
+<ol><li>Pada field <strong>Program</strong> pilih program studi dimana role ini akan diterapkan</li><li>Pada field <strong>Role</strong> pilih satu atau lebih role yang akan diterapkan, untuk memilih lebih dari satu tekan ctrl pada keyboard anda</li><li>Tekan tombol <strong>Pilih</strong> untuk menyimpan data ke database</li></ol>
+
+
+
+<h2>6.2.2. Tab Admin Roles</h2>
+
+
+
+<p><strong>Tab Admin Roles</strong> (Gambar 6.6) berfungsi sebagai tempat untuk menentukan role admin pada staf yang terpilih. Terdapat 4 role admin yaitu :</p>
+
+
+
+<ol><li>Admin Bagian Akademik,</li></ol>
+
+
+
+<p>Role ini mempunyai kewenangan mengatur semua data yang ada di sistem informasi ini kecuali setting universitas</p>
+
+
+
+<ol start="2"><li>Admin Penerimaan Mahasiswa Baru (PMB)</li></ol>
+
+
+
+<p>Role ini mempunyai kewenangan untuk mengatur proses penerimaan mahasiswa baru</p>
+
+
+
+<ol start="3"><li>Admin Keuangan</li></ol>
+
+
+
+<p>Role ini mempunyai kewenangan untuk mengatur biaya perkuliahan</p>
+
+
+
+<ol start="4"><li>Admin Situs</li></ol>
+
+
+
+<p>Role ini mempunyai kewenangan untuk mengatur semua data yang ada di sistem informasi ini</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/hB5NvI_iFduByX4n_7qRXYV0-q7_y7mIJTqTfaaaOUqXuJIletO6KcOngoGQrAQ4otJTUJevG-AdB6y2TtSlIx3FX2U823bQEVbVviJbuPpk44NKvrduQ3IMQMoyOpnKqsYQEYQedOuxu0wmnFEoqoPanjjwJdMCRQY7_eeE6mr2wQ5Lu3kZauAEzA" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 6.6. Halaman Edit Staf &#8211; Tab Admin Roles</em></strong></p>
+
+
+
+<h2>6.2.3. Tab Riwayat Pendidikan</h2>
+
+
+
+<p><strong>Tab Riwayat Pendidikan</strong> (Gambar 6.7) berfungsi sebagai tempat untuk menyimpan riwayat pendidikan staf tersebut.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/B76i8zO4l02tNjD64gWZyVhf_3lJQaDjhH7r-XAOV3n6oIBDQZwNCMOidA4HH92KgUJ95S0aq0zbkacRcH-YoRtizx_i8lQaVbG1aCY9OHSZdCFzqz2Y4Ufvn_4EGRyMIfxwIqogIWEeF1Gz9QIunO6xWU3tGUJnS_RgGvJN2r__TDhgr7FgKZ1rFg" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 6.7. Halaman Edit Staf &#8211; Tab Riwayat Pendidikan</em></strong></p>
+
+
+
+<h2>6.2.3. Tab Alamat</h2>
+
+
+
+<p><strong>Tab Alamat</strong> (Gambar 6.8) berfungsi sebagai tempat untuk menyimpan alamat staf tersebut.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/WaKqLC6R6Syvo18Udu0bOOmS7NcvXKRVvf7lWOq9XDnL5zgKRABz53-oMxjtMqwMy0t4_tA-qURmWvgWZTzN_VAjRCSiSKNwv4wFA1fVXrYaNfSfztU2qmMIzdwYK5v38LDLDVTzjSaM5x-TCellMZcKy7lSANAb3HdQCXw8WExv8J3jVm8sNcM5tg" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 6.8. Halaman Edit Staf &#8211; Tab Alamat</em></strong></p>
+
+
+
+<h2>6.3. Grup Pembimbing Akademik</h2>
+
+
+
+<p>Halaman Grup Pembimbing Akademik (Gambar 6.9) digunakan untuk mengelola grup pembimbing akademik. Satu Grup Pembimbing Akademik dapat terdiri atas beberapa dosen dan diketuai oleh satu koordinator. Satu mahasiswa mempunyai satu grup pembimbing akademik.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/8IPO9Wty5Q1k2yNY3PPuQWmVvabYBLCf65AxG4CQvWDu1Oay3EUGTZykzC2pc6-oOcoh_gLgze2DE8RhApv4zD-wA3PBlVEKyHNrLdStMd_NjVOgcP5p_KQzWv00vq9aJo1NxwnNxCl2yfYfvtL9UlkAw8jOLJzcxCACmtRSITQOi8S1PqyW5PQS" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 6.9. Halaman Grup Pembimbing Akademik</em></strong></p>
+
+
+
+<p>Untuk menambah Grup Pembimbing Akademik tekan tombol Tambah Grup PA, kemudian akan muncul halaman Tambah Pembimbing Akademik (Gambar 6.10)</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/qVi90AhD8WDfgUfP8bp3Mvzj4WWqRi4_P7t4sWLN-nOufq18Uk6pmdmXFvD5ndqp__jqa9JMngiJUrANLcETaYosOJCiTXx9YqGxi9IWIVmxD76wseg08qoiOKhw4FNCK5vuiifzAWp8oKeDknXJsd5WQXLhBdZ77fNvaRKFvjMw8w4dyYTYfIGU" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 6.10. Halaman Tambah Pembimbing Akademik</em></strong></p>
+
+
+
+<p>Pada halaman Tambah Pembimbing Akademik</p>
+
+
+
+<ol><li>Pada field <strong>Koordinator </strong>tekan tombol <strong>Select Staff</strong> untuk memilih pegawai yang ditunjuk sebagai koordinator. Kemudian akan muncul dialog Daftar Staff (Gambar 6.11)</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/iHY6r_w-nhCCJgHpYKAWSSocGcQfxUhZXr-C0lQjYSlXrw7DFr4QTuOl8SfpmT1_B9dxqEju4in0lK0mCkaXRbA83MDPLs15SfYLhcnp_5Jtb8ZoAXjDPJTrrqs6XB8P7g0rTJxNUZDIQCLGUKjqddRUYUmKjPfqrhyVDQVKaoMWkHFIbCynARkMLA" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 6.11. Dialog Daftar Staf</em></strong></p>
+
+
+
+<ol start="2"><li>Pada dialog Daftar Staff klik link Pilih untuk memilih pegawai yang ditunjuk sebagai koordinator kemudian tekan tombol <strong>Save</strong> untuk menyimpan data</li><li>Kemudian halaman akan berubah menjadi <strong>Update Grup Pembimbing Akademik</strong> (Gambar 6.12) dan akan muncul dua tab baru yaitu <strong>Dosen</strong> dan <strong>Mahasiswa</strong></li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/JZMormTKntK_egD46GgqwL61qjmkK5rTE6z6OulKDRN2FFGUeo4PxzFG0Tdue36MxbjvX9A3sA63Y_t2GAnf51dJXtxHWIp69VFrvMkAhpGLdi7-bAuyNttE5if3CBvxQhuUZxA3m6dbxkSsK5iV6-h3Ra-_KhLTjLhR_medrEcH1vt05dLIz296" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 6.12. Halaman Update Grup Pembimbing Akademik</em></strong></p>
+
+
+
+<ol start="4"><li>Pada tab Dosen, untuk menambah dosen ke dalam grup pembimbing ini tekan tombol <strong>Tambah Dosen</strong> kemudian akan muncul dialog Daftar Staff (Gambar 6.13)</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/d9PprKkOwUgII0a1WBNbXuEPQvTEEYUP8lfN2fl6EDtlqHHctL0Q53RrPjz4m0m1amDdhTBeMfvt5oxmAlfukg6Lng_euYE_BpQyQTxtn6c2-9Sgk64l64ZEbf55ILGagk_lWLJbliW2MBDnF18KO1whQsVLefkRFa5nqT_-gj2H4_YbbN6G2AtYkA" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 6.13. Dialog Daftar Staff</em></strong></p>
+
+
+
+<ol start="5"><li>Pada dialog Daftar Staff, centang staf yang akan dipilih pada kolom sebelah kiri kemudian klik tombol <strong>Pilih </strong>kemudian data akan tersimpan ke dalam database</li><li>Untuk memasukkan mahasiswa ke dalam grup pembimbing akademik, pada tab Mahasiswa tekan tombol <strong>Tambah Mahasiswa </strong>kemudian akan muncul dialog <strong>Mahasiswa Terdaftar </strong>(Gambar 6.14)</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/4G5IKuHnGsM52apE0FWYMWBHovmlKapY8z8oob1KeiSlYFSldIajMQ65DVcSRnHUAz8hoxyj2w9nTNHCgcH_DI-2MUOdTlcxC2MOqYF967kuKhkfUMoWigbhTHivqLwTd9vbKR-q9To5CcO6SvWXTK85vBOjuF7Il2xFt1qAIrmI730XWbr2c55q" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 6.14. Dialog Mahasiswa Terdaftar</em></strong></p>
+
+
+
+<ol start="7"><li>Pada dialog Mahasiswa Terdaftar centang mahasiswa yang akan dimasukkan ke dalam grup pembimbing kemudian tekan tombol <strong>Pilih </strong>kemudian data akan tersimpan ke dalam database.</li><li>Untuk menghapus mahasiswa dari grup pembimbing akademik klik icon delete pada kolom <strong>Action</strong> kemudian akan muncul dialog Hapus Mahasiswa dari Group PA. Apabila anda yakin untuk menghapus data tersebut tekan tombol <strong>Delete</strong></li></ol>
+<div class="fb-background-color">
+			  <div 
+			  	class = "fb-comments" 
+			  	data-href = "https://docs.amelaris.com/menu-staf-dosen/"
+			  	data-numposts = "10"
+			  	data-lazy = "true"
+				data-colorscheme = "light"
+				data-order-by = "social"
+				data-mobile=true>
+			  </div></div>
+		  <style>
+		    .fb-background-color {
+				background: #ffffff !important;
+			}
+			.fb_iframe_widget_fluid_desktop iframe {
+			    width: 100% !important;
+			}
+		  </style>
+		  <p>The post <a rel="nofollow" href="https://docs.amelaris.com/menu-staf-dosen/">Menu Staf / Dosen</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Menu Mahasiswa</title>
 		<link>https://docs.amelaris.com/menu-mahasiswa/</link>
 		
