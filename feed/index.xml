@@ -12,7 +12,7 @@
 	<atom:link href="https://docs.amelaris.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://docs.amelaris.com/</link>
 	<description>Sistem informasi akademik universitas berbasis REST API yang ramah pengguna, efisien dan fleksibel</description>
-	<lastBuildDate>Tue, 11 Oct 2022 02:07:05 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Oct 2022 04:51:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,115 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Menu Jadwal</title>
+		<link>https://docs.amelaris.com/menu-jadwal/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 04:28:58 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://docs.amelaris.com/?p=57</guid>
+
+					<description><![CDATA[<p>Menu Jadwal berisi Jadwal Kelas Perkuliahan dan Jadwal Ujian 7.1. Jadwal Kelas Perkuliahan Halaman Jadwal Kelas Perkuliahan (Gambar 7.1.) digunakan mengelola semua jadwal kelas perkuliahan pada tiap program studi dan tiap semester. Gambar 7.1. Halaman Jadwal Perkuliahan Untuk mengubah jadwal kelas perkuliahan klik nama kelas link kemudian akan masuk pada halaman Update Kelas Perkuliahan kemudian&#8230;&#160;<a href="https://docs.amelaris.com/menu-jadwal/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Menu Jadwal</span></a></p>
+<p>The post <a rel="nofollow" href="https://docs.amelaris.com/menu-jadwal/">Menu Jadwal</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Menu Jadwal berisi Jadwal Kelas Perkuliahan dan Jadwal Ujian</p>
+
+
+
+<h2>7.1. Jadwal Kelas Perkuliahan</h2>
+
+
+
+<p>Halaman Jadwal Kelas Perkuliahan (Gambar 7.1.) digunakan mengelola semua jadwal kelas perkuliahan pada tiap program studi dan tiap semester.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/P2m1UQ2814vwWpHYbiWY49i_AR6ziPKQA1dSFn2wWFAZFMKl07nENZQcYXCMDoK2VzhbpHoedcRaLTzTCfpO-PbmDwxN0GDoW6WiYCE0KzPErqvf424GuvZXe9Tzk9h5juuH5BqxtmyLfKiiOUtDznh8WCsD1EC_om5v9i3vZ8WwfblgIfwv9-St" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 7.1. Halaman Jadwal Perkuliahan</em></strong></p>
+
+
+
+<p>Untuk mengubah jadwal kelas perkuliahan klik nama kelas link kemudian akan masuk pada halaman Update Kelas Perkuliahan kemudian klik tab Jadwal. Tab jadwal (Gambar 7.2.) berguna untuk mengatur jadwal kelas perkuliahan. Admin dapat mengatur <strong>Periode</strong> tanggal kelas dimulai dan berakhir, waktu <strong>Pukul</strong> perkuliahan dimulai dan selesai, <strong>Hari</strong> perkuliahan dilaksanakan, jenis <strong>Sesi</strong> perkuliahan dan <strong>Ruang</strong> tempat perkuliahan berlangsung.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/C0PqMNnp5Oh2DBntVUJUVT9WI5g6XOsTFejoHX_05FYwzQbOL8L41a7TKd2ECknksZvMTgbbtgEUkFcR4FH52J4ISWUr0O6iovYt19zPmePflsDviN3olXe3_0RFYdrB52BXJEDVeIp0CuWFUVsHQJsTsC6zuXO8eOwvrKyUbCurPv5qZVSsV3gg" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 7.2. Halaman Update Kelas Perkuliahan &#8211; Tab Jadwal</em></strong></p>
+
+
+
+<h2>7.2. Jadwal Ujian</h2>
+
+
+
+<p>Halaman Jadwal Ujian (Gambar 7.3.) digunakan mengelola semua jadwal ujian pada tiap program studi dan tiap semester.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/SsZcMvXvVH5jzCmrkqfpjH0L6AV--d7bkw-Iu-U2ugVyPk30Ld78BmFqI52PJ0P2MvfAGoXHrdU39CUkQa7e0zKGL0sXeWQHMkWXoWYzKaJC218XsF42NuUiMX825hiXxP24UDxl36OtF_U2pvOnyjXUjrQW2nLJ9YwXNjP80Xd-QBHjo_E98UWV" alt=""/></figure></div>
+
+
+<p><strong><em>Gambar 7.3. Halaman Jadwal Ujian</em></strong></p>
+
+
+
+<p>Untuk menambah Jadwal Ujian tekan tombol Tambah Jadwal, kemudian akan muncul halaman Tambah Jadwal Ujian (Gambar 7.4)</p>
+
+
+
+<p>Pada halaman Tambah Jadwal Ujian</p>
+
+
+
+<ol><li>Pada field <strong>Kelas Mata Kuliah </strong>tekan tombol <strong>Pilih</strong> untuk memilih kelas perkuliahan (Gambar 7.5). Tekan link <strong>Pilih</strong> pada kelas perkuliahan yang akan dibuat jadwal ujiannya</li><li>Pilih <strong>Jenis Ujian, Ruang, Tanggal </strong>dan waktu ujian (<strong>Pukul</strong>)</li><li>Tekan tombol <strong>Save </strong>untuk menyimpan data</li></ol>
+
+
+
+<p>Untuk menghapus jadwal ujian dari database, klik icon delete pada tabel Jadwal Ujian pada kolom terakhir&nbsp;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/ydyEo2fi13P8Q1cz0wUPqzfwMWYsc3KhBMPQkpPNpelaPF7zCgAETTgwdC--gthXOrzvtBWspt8thdpsTYgy9GZvesTyNqwV4UC8d0sJzRsfrXh6e7z3Ng01xN2jnORx_LRr3_Y5cCsrUKb_pH-dSR6eyf3oeiERQK0ilYpSZ8uFRjg48EShoNVJ" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 7.4. Halaman Tambah Jadwal Ujian</em></strong></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/TkPFpM2uKWW9013slchCY0qzX6nTEvhLe3ivvs1MesbHuex3qXbS3Jwq6JGZmaCreFmzAGnNRqljingnHUJBn1k_gx0Fzvot3gEfj14pIWGSRjuDPGpKuYBUXnWvo4k4OfcJtj5ZK0MpBprPFiGS2hKlZa2cDQWmH0teDoVlb0J_Ip_1UCiJso3T" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 7.5. Dialog Pilih Kelas Mata Kuliah</em></strong></p>
+<div class="fb-background-color">
+			  <div 
+			  	class = "fb-comments" 
+			  	data-href = "https://docs.amelaris.com/menu-jadwal/"
+			  	data-numposts = "10"
+			  	data-lazy = "true"
+				data-colorscheme = "light"
+				data-order-by = "social"
+				data-mobile=true>
+			  </div></div>
+		  <style>
+		    .fb-background-color {
+				background: #ffffff !important;
+			}
+			.fb_iframe_widget_fluid_desktop iframe {
+			    width: 100% !important;
+			}
+		  </style>
+		  <p>The post <a rel="nofollow" href="https://docs.amelaris.com/menu-jadwal/">Menu Jadwal</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Menu Staf / Dosen</title>
 		<link>https://docs.amelaris.com/menu-staf-dosen/</link>
 		
@@ -36,7 +145,7 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://docs.amelaris.com/?p=52</guid>
 
-					<description><![CDATA[<p>Menu Staf berisi Daftar Staf, Tambah Staf, Daftar Pembimbing Akademik. 6.1. Daftar Staf Halaman Daftar Staf (Gambar 6.1.) digunakan mengelola semua staf yang ada di universitas. Anda dapat memfilter staf berdasarkan Unit / program studi dan Role. Terdapat beberapa role pada sistem informasi akademik ini yaitu: Admin Bagian Akademik, role ini ditujukan kepada pegawai yang&#8230;&#160;<a href="https://docs.amelaris.com/menu-staf-dosen/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Menu Staf / Dosen</span></a></p>
+					<description><![CDATA[<p>Menu Staf berisi Daftar Staf, Tambah Staf, Daftar Pembimbing Akademik. 6.1. Daftar Staf Halaman Daftar Staf (Gambar 6.1.) digunakan mengelola semua staf yang ada di universitas. Anda dapat memfilter staf berdasarkan Unit / program studi dan Role Terdapat beberapa role pada sistem informasi akademik ini yaitu: Admin Bagian Akademik, role ini ditujukan kepada pegawai yang&#8230;&#160;<a href="https://docs.amelaris.com/menu-staf-dosen/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Menu Staf / Dosen</span></a></p>
 <p>The post <a rel="nofollow" href="https://docs.amelaris.com/menu-staf-dosen/">Menu Staf / Dosen</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
@@ -48,7 +157,7 @@
 
 
 
-<p>Halaman Daftar Staf (Gambar 6.1.) digunakan mengelola semua staf yang ada di universitas. Anda dapat memfilter staf berdasarkan Unit / program studi dan Role.</p>
+<p>Halaman Daftar Staf (Gambar 6.1.) digunakan mengelola semua staf yang ada di universitas. Anda dapat memfilter staf berdasarkan Unit / program studi dan Role</p>
 
 
 
@@ -904,6 +1013,7 @@
 		<pubDate>Thu, 06 Oct 2022 07:05:52 +0000</pubDate>
 				<category><![CDATA[Role Admin]]></category>
 		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[aplikasi sistem informasi akademik kampus]]></category>
 		<guid isPermaLink="false">https://docs.amelaris.com/?p=34</guid>
 
 					<description><![CDATA[<p>Menu perkuliahan berisi segala sesuatu yang berkaitan dengan proses perkuliahan mahasiswa 4.1. Rules Management Pada halaman Rules Management (Gambar 4.1.)&#160; terdapat 2 tab yaitu: Mahasiswa IPK Rendah, yaitu Daftar mahasiswa semester 1 dengan IPK kurang dari sama dengan 1.0 Syarat IRS dan KHS, yaitu apakah harus lunas UKT dan mengisi kuesioner Gambar 4.1. Halaman Kalender&#8230;&#160;<a href="https://docs.amelaris.com/menu-perkuliahan/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Menu Perkuliahan</span></a></p>
