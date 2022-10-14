@@ -12,7 +12,7 @@
 	<atom:link href="https://docs.amelaris.com/tag/aplikasi-sistem-informasi-akademik-kampus/feed/" rel="self" type="application/rss+xml" />
 	<link>https://docs.amelaris.com/tag/aplikasi-sistem-informasi-akademik-kampus/</link>
 	<description>Sistem informasi akademik universitas berbasis REST API yang ramah pengguna, efisien dan fleksibel</description>
-	<lastBuildDate>Thu, 13 Oct 2022 04:51:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Oct 2022 06:08:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Menu Perkuliahan</title>
+		<title>Menu Perkuliahan pada SIAKAD Kampus Amelaris</title>
 		<link>https://docs.amelaris.com/menu-perkuliahan/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -38,11 +38,11 @@
 		<category><![CDATA[aplikasi sistem informasi akademik kampus]]></category>
 		<guid isPermaLink="false">https://docs.amelaris.com/?p=34</guid>
 
-					<description><![CDATA[<p>Menu perkuliahan berisi segala sesuatu yang berkaitan dengan proses perkuliahan mahasiswa 4.1. Rules Management Pada halaman Rules Management (Gambar 4.1.)&#160; terdapat 2 tab yaitu: Mahasiswa IPK Rendah, yaitu Daftar mahasiswa semester 1 dengan IPK kurang dari sama dengan 1.0 Syarat IRS dan KHS, yaitu apakah harus lunas UKT dan mengisi kuesioner Gambar 4.1. Halaman Kalender&#8230;&#160;<a href="https://docs.amelaris.com/menu-perkuliahan/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Menu Perkuliahan</span></a></p>
-<p>The post <a rel="nofollow" href="https://docs.amelaris.com/menu-perkuliahan/">Menu Perkuliahan</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
+					<description><![CDATA[<p>Pada aplikasi Sistem Informasi Akademik (SIAKAD) Kampus Amelaris terdapat menu perkuliahan yang berisi segala sesuatu yang berkaitan dengan proses perkuliahan mahasiswa. 4.1. Rules Management Pada halaman Rules Management (Gambar 4.1.)&#160; terdapat 2 tab yaitu: Mahasiswa IPK Rendah, yaitu Daftar mahasiswa semester 1 dengan IPK kurang dari sama dengan 1.0 Syarat IRS dan KHS, yaitu apakah&#8230;&#160;<a href="https://docs.amelaris.com/menu-perkuliahan/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Menu Perkuliahan pada SIAKAD Kampus Amelaris</span></a></p>
+<p>The post <a rel="nofollow" href="https://docs.amelaris.com/menu-perkuliahan/">Menu Perkuliahan pada SIAKAD Kampus Amelaris</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>Menu perkuliahan berisi segala sesuatu yang berkaitan dengan proses perkuliahan mahasiswa</p>
+<p>Pada aplikasi <a href="https://amelaris.com/fitur">Sistem Informasi Akademik (SIAKAD) Kampus Amelaris </a>terdapat menu perkuliahan yang berisi segala sesuatu yang berkaitan dengan proses perkuliahan mahasiswa.</p>
 
 
 
@@ -506,7 +506,7 @@
 			    width: 100% !important;
 			}
 		  </style>
-		  <p>The post <a rel="nofollow" href="https://docs.amelaris.com/menu-perkuliahan/">Menu Perkuliahan</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
+		  <p>The post <a rel="nofollow" href="https://docs.amelaris.com/menu-perkuliahan/">Menu Perkuliahan pada SIAKAD Kampus Amelaris</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
 ]]></content:encoded>
 					
 		
