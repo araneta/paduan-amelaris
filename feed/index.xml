@@ -12,7 +12,7 @@
 	<atom:link href="https://docs.amelaris.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://docs.amelaris.com/</link>
 	<description>Sistem informasi akademik universitas berbasis REST API yang ramah pengguna, efisien dan fleksibel</description>
-	<lastBuildDate>Thu, 13 Oct 2022 04:51:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Oct 2022 03:55:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,377 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Menu Biaya Perkuliahan</title>
+		<link>https://docs.amelaris.com/menu-biaya-perkuliahan/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 14 Oct 2022 03:55:33 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://docs.amelaris.com/?p=66</guid>
+
+					<description><![CDATA[<p>Menu Biaya Perkuliahan berisi segala sesuatu yang berkaitan dengan tagihan perkuliahan mahasiswa 8.1. Bank Halaman Bank (Gambar 8.1.) digunakan mengelola semua data bank yang ada pada sistem informasi akademik ini. Gambar 8.1. Daftar Bank Untuk menambah bank tekan tombol Tambah kemudian akan muncul halaman Tambah Bank seperti gambar 8.2. Gambar 8.2. Tambah Bank Silahkan isi&#8230;&#160;<a href="https://docs.amelaris.com/menu-biaya-perkuliahan/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Menu Biaya Perkuliahan</span></a></p>
+<p>The post <a rel="nofollow" href="https://docs.amelaris.com/menu-biaya-perkuliahan/">Menu Biaya Perkuliahan</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Menu Biaya Perkuliahan berisi segala sesuatu yang berkaitan dengan tagihan perkuliahan mahasiswa</p>
+
+
+
+<h2>8.1. Bank</h2>
+
+
+
+<p>Halaman Bank (Gambar 8.1.) digunakan mengelola semua data bank yang ada pada sistem informasi akademik ini.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/nWQ8qVjWJDxBCoQkWjZQaLphsS2sJtSEB_HguaZCf_ght6BYBIl28Vzy14oZO-JLiEUxwDQOK1cM1b8qoP4NhTAuJlvwe7CLL1w4LUgYRNFEvRwjUZIyicX3ebCz6l-IJ_35YFkQ3wchTheb6g7U8r8lLE9IICAVJZ6mFXd_C5GiBXVkWUdUMt7pkQ" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.1. Daftar Bank</em></strong></p>
+
+
+
+<p>Untuk menambah bank tekan tombol Tambah kemudian akan muncul halaman Tambah Bank seperti gambar 8.2.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/OOa7TtL9GuFOiYTxILhRpg0vIIL_8T0IXEbk7qqYHq4FFxCXxIe49XUguWx7wuAsFEVmhuWIfC9KtJqRIkbhFvRJlmmrCZIm5R-XvRStUjrGcCL6WSfsOkxjEaOtNuxvuwhEjxvp1HzGnb9KqMRlJrG8MKY45-3ZSHyFq1eRRb_eTIpS_ohsp8qSMg" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.2. Tambah Bank</em></strong></p>
+
+
+
+<ol><li>Silahkan isi <strong>Nama</strong> dan <strong>Code</strong> bank</li><li>Tekan tombol <strong>Save</strong> untuk menyimpan data ke dalam database</li></ol>
+
+
+
+<h2>8.2. Daftar Kategori Tagihan</h2>
+
+
+
+<p>Halaman Daftar Kategori Tagihan (Gambar 8.3.) digunakan mengelola semua kategori tagihan yang ada. Berikut adalah beberapa kategori yang biasanya ada pada suatu universitas :</p>
+
+
+
+<ol><li>Kuliah&nbsp;</li><li>Wisuda</li><li>PMB</li></ol>
+
+
+
+<p>Setiap kategori tagihan dapat mempunya Jenis Tagihan yang berbeda</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/lTFcVrnYn0kdwXEoutjw0hrik-HvTpTB8okjHHrzTpTdCsULMCd51jFcPRvFhjq5ILePMUzdeIl0FOyrfgGdsq5S9CX6RDdhf1AwMTLv218Th6wS_P8yFrBS7as1aQLmaIN5GM4e9pLY9CIyVpS3nyR58OdbWJlzTb8oH6vxJZaBiKaWJq4Jdn7iuQ" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.3. Daftar Ketegori Tagihan</em></strong></p>
+
+
+
+<h2>8.3. Daftar Periode Tagihan</h2>
+
+
+
+<p>Halaman Periode Tagihan (Gambar 8.4.) digunakan mengelola semua periode tagihan yang ada. Berikut adalah beberapa periode tagihan yang biasanya ada pada suatu universitas :</p>
+
+
+
+<ol><li>Per Semester</li><li>Per Tahun</li><li>Per Bulan</li></ol>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/cuzsy06Gv0ViVlwyF0ZuUPlUkoWlo1WiYhXHEkDNuC9tmdOPqMP-sDxxFwzliyiu6u4uW88IgjkyDmtKBhvBkgVdNNBU-FltedaejZBG-SiDDGEWnrwtviVKFZMz8ox4HSGn2IkOU8X2PqjnWRx3VnRTOM4Bgvux0S-AkyuRrhEeHl_BnOwe3zwg3Q" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.4. Daftar Periode Tagihan</em></strong></p>
+
+
+
+<p>Untuk menambah Periode Tagihan tekan tombol Tambah kemudian akan muncul halaman Tambah Periode Tagihan seperti gambar 8.5.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/Lx63jKe9Sv-FMPhFxuIXLXuLh_T6w8NH2xGofA4OoaCHH9UIub5d1Gg_jHGrJ8aQT1o_-Rf-1E35KyAUGqItX3z_y27WYDOplw1xqLCFdJD8cwIICKE3satoKdheiO6OiFT7Ayf9A0c-stRWjajSpFc1qtpEPC1UgfyQW3OC4TSg8ueKRr3vxexufw" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.5. Tambah Periode Tagihan</em></strong></p>
+
+
+
+<ol><li>Silahkan isi <strong>Nama</strong> periode tagihan</li><li>Tekan tombol <strong>Save</strong> untuk menyimpan data ke dalam database</li></ol>
+
+
+
+<h2>8.4. Daftar Jenis Tagihan</h2>
+
+
+
+<p>Halaman Daftar Jenis Tagihan (Gambar 8.6.) digunakan mengelola semua jenis tagihan yang ada. Berikut adalah beberapa jenis tagihan yang biasanya ada pada suatu universitas :</p>
+
+
+
+<ol><li>Jenis Tagihan : UKT</li></ol>
+
+
+
+<p>Kategori Tagihan : Kuliah</p>
+
+
+
+<p>Periode Tagihan : Per Semester</p>
+
+
+
+<p>Tandai IRS : Ya</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/0p5CLk3S8qiDL4A8ovThKToCiAJeTZh4q2LKZzsOXUMxGIAECtxy9XZg83BNRFt37sHS9NlqYTv14f6Hm5kJ64g1LU_f_7PUFT4SQq8nEQ686RHq_kuRY47n_EpoAzOXaXjNajQq0tQdtYSGHMphYjVmn8v9ylPm6rl7uAkROAkFSZmNJNexoQP60Q" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.6. Daftar Jenis Tagihan</em></strong></p>
+
+
+
+<p>Untuk menambah Jenis Tagihan tekan tombol Tambah kemudian akan muncul halaman Tambah Jenis Tagihan seperti gambar 8.7</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/kz0rC7tvgQizcIjUO3PznbPH_Z4-cTSIEeqKKs8MtLtnsd9vxXoUTClXXei_tiQSENJt209KbZznheS3NcCFfSHpdK56til85A08lNR3LMp_AFEUdOFZcONkmGuOsAfUJEIUG8tvBxH2KWT1aaNGoGcVA1yCmWMRMXuAfQsx0gFswa2LYs6-jn8AAA" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.7. Tambah Jenis Tagihan</em></strong></p>
+
+
+
+<ol><li>Silahkan isi <strong>Nama</strong> jenis tagihan, <strong>Kategori Tagihan</strong>, <strong>Periode Tagihan</strong>, dan <strong>Tandai IRS</strong> apabila ingin menandai IRS</li><li>Tekan tombol <strong>Save</strong> untuk menyimpan data ke dalam database</li></ol>
+
+
+
+<h2>8.5. Daftar Jenis Tagihan Per Program Studi</h2>
+
+
+
+<p>Halaman Daftar Jenis Tagihan Per Program Studi (Gambar 8.8.) digunakan mengelola semua jenis tagihan yang ada pada suatu program studi. Pada setiap program studi di universitas dapat mempunyai beberapa jenis tagihan yang berbeda-beda pada setiap semester. Untuk menerapkan tagihan pada semua mahasiswa yang ada pada program studi tersebut pilih jenis tagihan kemudian tekan tombol <strong>Generate</strong>.&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh6.googleusercontent.com/Q0t2Uh--bmTHXryDQcl5a1VILTQr488rt4HpEmwlqLqJEGmmAd7QUL_CkCHGHWj3xD_Gz7b_w-jiiLmn7YTiRP-9-EQfc0ABxvuGE1ueYoQXOM5GIwJnK2FrqBh8vGWnvfewIFNkeaxYgkGe08Tw1RqeKpkHP7K63IwJTQwbtOOsCDL7aMPAxTvp5Q" alt=""/></figure>
+
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.8. Daftar Jenis Tagihan Per Program Studi</em></strong></p>
+
+
+
+<p>Untuk menambah jenis tagihan per program studi, pilih Fakultas, Program Studi dan Semester kemudian tekan tombol <strong>Tambah</strong> kemudian akan muncul halaman Tambah Jenis Tagihan Per Program Studi seperti pada gambar 8.9.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/9qw0oU69g-HYef21UnPB-nMnjDc3bO0rgO3EqIBWJG9I_-EykgLk3FR24i4C87q3hijiT7nfTHu-2Vji7JAI6pK0ZEBQ8waWgBrDA_NWwRVMHrezcHzew1dUNFuTQmOwKI7pewc1iAbSICXo67Z6v4ARarkzKySY1m6rCOX6jeW-oUbAdcl9asucPw" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.9. Tambah Jenis Tagihan Per Program Studi</em></strong></p>
+
+
+
+<ol><li>Silahkan pilih <strong>Semester</strong>, <strong>Jenis Tagihan</strong> dan masukkan <strong>Nominal</strong> tagihan</li><li>Tekan tombol <strong>Save</strong> untuk menyimpan data ke dalam database</li></ol>
+
+
+
+<h2>8.6. Daftar Tagihan Mahasiswa</h2>
+
+
+
+<p>Halaman Daftar Tagihan Mahasiswa (Gambar 8.9.) digunakan mengelola semua tagihan mahasiswa yang ada pada sistem informasi akademik ini. Pada halaman ini anda dapat melihat semua tagihan yang telah di generate melalui halaman <strong>Daftar Jenis Tagihan Per Program Studi</strong>.&nbsp;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/yp9fBklKjT8vjrz70Pqu5ZCvRVSTp3eC3KTVFtnu9aA-9OZ8mYnqv6UQ1WALGch-74Kn8MwmJfV7Jy_t0PCFSe2VoPZ_UHNV0TZzp2Qv6u0IO1ClQT2EXWwG00OAHaaE5rO6RsFQfgZTvLCcWwigKAAR-kYWU_yjlNFQUysWXKRY_GfTgRTTuW8-yg" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.10. Daftar Tagihan Mahasiswa</em></strong></p>
+
+
+
+<p>Untuk menambah tagihan pada mahasiswa, pilih fakultas dan program studi serta semester kemudian tekan tombol Tambah. Sehingga muncul halaman Tambah Tagihan (Gambar 8.11)</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/-F4ElajG1KyqTIS65MFOnL0ekh5Nq6tvixEJLcTQ5irdmYOaB7oB-p8MKxDTRr0IwMNAZEUSPFpD8qAv3fofb7_fTd6bL7YegWrSIkUkuZIj5KtXLnIEiaJRDwcfeKIaqP1V_s9uIBeRHeaGCHyzabUHs_X9qNy-Kz4s1imbA7XJQFFiruvxZ4o08Q" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.11. Tambah Tagihan Mahasiswa</em></strong></p>
+
+
+
+<ol><li>Silahkan pilih <strong>Mahasiswa, </strong>masukkan <strong>No Invoice</strong>, pilih <strong>Jenis Tagihan</strong> dan <strong>Status</strong> tagihan, masukkan <strong>Nominal</strong> tagihan, kemudian pilih <strong>Tanggal Invoice</strong> dan <strong>Tanggal Jatuh Tempo</strong></li><li>Tekan tombol <strong>Save</strong> untuk menyimpan data ke dalam database</li></ol>
+
+
+
+<p>Anda dapat mengubah jumlah tagihan yang ada dengan menekan tombol <strong>Edit</strong> pada Daftar Tagihan Mahasiswa (Gambar 8.10) kemudian mengubah <strong>Nominal</strong> dan <strong>Status</strong> tagihan kemudian menekan tombol <strong>Save</strong>.</p>
+
+
+
+<h2>8.7. Daftar Pembayaran Mahasiswa</h2>
+
+
+
+<p>Halaman Daftar Pembayaran Mahasiswa (Gambar 8.12.) digunakan mengelola semua pembayaran mahasiswa yang ada pada sistem informasi akademik ini.&nbsp;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/T4fVDZgQsHaqzkg0Z4GwT56BmKCT9eh26J-H-MtuBurzeb3dhT-037IVTI6sloohoIXkUGY9ptZXHCHdies9jWGzx4Ch-eNz2NxA5qh8c_C6PaLLXfkxGlpGIM1QNo7JJOuStbsj6JL4mlzulCu7r9PBDSXNhcDY5IywYQdKOZDvO-Vgi2_miO5n1A" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.12. Daftar Pembayaran Mahasiswa</em></strong></p>
+
+
+
+<p>Untuk menambah pembayaran mahasiswa, pilih fakultas dan program studi serta kategori tagihan kemudian tekan tombol Tambah. Sehingga muncul halaman Tambah Pembayaran (Gambar 8.13)</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/feQUd03oBXOkJvdcjoveFQwgcygbCPTmklh98ABE54sCsjSbt8MwxBK4n2RDy716Qta7Ar6lxJk9gWHZUJdT68HHZGKLciejdS05Y_DI71_xsgSZ58uGW2fpZoLDM1oxpUt3xmxpd6YSFzGlk_5qNj6tHB6TbQl2_izitRmAOPxAa1eIYa2eoaeHrQ" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.13. Tambah Pembayaran Mahasiswa</em></strong></p>
+
+
+
+<ol><li>Silahkan pilih <strong>Kategori Tagihan, </strong>masukkan <strong>Tanggal Pembayaran, </strong>dan pilih<strong> Mahasiswa</strong></li><li>Pada detail invoice, centang checkbox pada kolom paling kanan pada setiap baris di tabel untuk mengisi <strong>Jumlah Bayar</strong> dengan nominal yang sama dengan <strong>Jumlah Tagihan. </strong>Atau dapat juga mengisi manual <strong>Jumlah Bayar </strong>per item</li><li>Masukkan <strong>Jumlah Uang </strong>yang dibayarkan</li><li>Pilih <strong>Bank</strong></li><li>Tekan tombol <strong>Save</strong> untuk menyimpan data ke dalam database</li></ol>
+
+
+
+<p>Untuk membatalkan pembayaran mahasiswa, pilih satu atau lebih pembayaran pada Daftar Pembayaran Mahasiswa (Gambar 8.12) kemudian tekan tombol <strong>Void </strong>kemudian status pembayaran akan berubah menjadi <strong>Void. </strong>Status pembayaran yang telah berubah menjadi <strong>Void</strong> tidak bisa berubah lagi.</p>
+
+
+
+<h2>8.8. Daftar Laporan Keuangan</h2>
+
+
+
+<p>Halaman Daftar Laporan Keuangan (Gambar 8.14.) digunakan mengelola laporan keuangan mahasiswa yang ada pada sistem informasi akademik ini.&nbsp;</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/IkfH4VElv03MUNVG_iVcfMqt8DodYDj2Ruao_kIpHVqYobbHu-Ih5sVseOInes87kKzO2dTkSwAGLChYL8FWKkPZQFCQ5j5_vDcfgzy7QgY6mDkoGOUuqKH082hpomC6Aulk6Jk0McIscNSwb8QQFLWi5OA-AqctWIUDqiiLW24g55j5C5QdlsFXjA" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.14. Daftar Laporan Keuangan</em></strong></p>
+
+
+
+<p>Menu Daftar Laporan Keuangan berisi report:</p>
+
+
+
+<ol><li>Daftar Tagihan Per Mahasiswa</li><li>Daftar Rekap Tagihan Mahasiswa</li><li>Daftar Rekap Pembayaran Mahasiswa</li></ol>
+
+
+
+<h2>8.8.1. Daftar Tagihan Per Mahasiswa</h2>
+
+
+
+<p>Report ini digunakan untuk menampilkan tagihan pada satu mahasiswa per semester.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/ymJfhwy9eFBiIIqLJMnDJj3NJypymvUxWTd-W8YB0ke7ktFNvVF7wyXgbeFSx6tE9Z5xx8Jn1xh6QYBjLBXSTMeFNuQbilv0NethPLa88ErTJurOej_y5nkxWVkwPt8b3YxWQaxuYvXzMzgh2ih-Vxtfg_GSKLpdIe2fT16YqPiEoffIgMbkXcBFqw" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.15. Parameter Report Daftar Tagihan Mahasiswa</em></strong></p>
+
+
+
+<p>Hasil report daftar tagihan mahasiswa bisa dilihat pada Gambar 8.16</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh6.googleusercontent.com/eQB4gs69sL5cr6_wsVXwhdl2GMEhVKYdyWax0gIM2mZ1A2ia0WeKB19AUQXtPDi4dLHo1TlR8wEZTum6Kit84krclYxPTR0xLgmWhgupimSemQBKVa0iZX2-_WtNHGN1EmitFuvoeQjG5Rd3QJgZrdep7zHYWOJkjQv-E0l19MKZ-LnwUWeajuPSvw" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.16. Report Daftar Tagihan Mahasiswa</em></strong></p>
+
+
+
+<h2>8.8.2. Daftar Rekap Tagihan Mahasiswa</h2>
+
+
+
+<p>Report ini digunakan untuk menampilkan tagihan pada semua mahasiswa berdasarkan Jenis Tagihan dan berdasarkan Tanggal Mulai Tagihan dan Tanggal Akhir Tagihan.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/4lVrXYvNwuNZ97Zdz86ItQRW1fCnWzOccIxDuBecoCCvjpVgHLvFrQSP5xIi-f7wC5jV3ugUinfNnHH0bqugEtqhyJdjL-qjd4XtAfPykENa1CWFOIo0MB-xVjRBxJ06yP2hfcvCywYIVauKfeR2RW06brXW5rAeOpbh08pMb52_8mgVYV2R0loD9Q" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.17. Parameter Report Daftar Rekap Tagihan Mahasiswa</em></strong></p>
+
+
+
+<p>Hasil report daftar rekap tagihan mahasiswa bisa dilihat pada Gambar 8.18</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh4.googleusercontent.com/hkDGSlx5WqRUup-BpfEhGd7Ea3Fphc_bkA5lwG1U8ZLo7cLc8mHfK4OibZxtOoBSAwGUP5HM-GgrGA73FxwQm_Gzlo-FrpBSUcb133BzCR3Wv7hcH_YcxiTDt2BDB7j4TI8JjULR8JwkkfA7bYT1YMR3WW_2hwa79iVnUhUgtBhFyPy_oJPnwU6A9g" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.18. Report Daftar Rekap Tagihan Mahasiswa</em></strong></p>
+
+
+
+<h2>8.8.3. Daftar Rekap Pembayaran Mahasiswa</h2>
+
+
+
+<p>Report ini digunakan untuk menampilkan pembayaran pada semua mahasiswa berdasarkan Tanggal Mulai Pembayaran dan Tanggal Akhir Pembayaran.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh5.googleusercontent.com/6spl0K6Ua9LhSScLGiLHLhljspt8Zb2QDu9y9LYm97CxAQy9w1-QB_hcBYA31tyzFNwRMcNK2yqJAzpcCjbKUsa1a3H4vv7KTzbIfk6kzJwQB_0xEWDAWM1c46h69Ig3QnJQp0DQtxbiZGapWuzqQCSiN5-Bs2iLT6xLJ0JklYa5C10GsZHSS82s8w" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.19. Parameter Report Daftar Rekap Pembayaran Mahasiswa</em></strong></p>
+
+
+
+<p>Hasil report daftar rekap pembayaran mahasiswa bisa dilihat pada Gambar 8.20</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://lh3.googleusercontent.com/I-E8rYlb-OXkrQIosUPqesm4kq3NS6N5J1uDljOOZEEGZaHOlGEywtYbeo2vS_lO1MBY7g0qnd8kFfZN7oFP5wUUS-HFrR1qHHKnif2z2kMzzel4osUMKe_JMhx9xTbcMgQEnyE2UutdS7hxO9pDtDyQZw_L3aD_NN3UP2sG3a3q31N5F295Ur8AHA" alt=""/></figure></div>
+
+
+<p class="has-text-align-center"><strong><em>Gambar 8.20. Report Daftar Rekap Pembayaran Mahasiswa</em></strong></p>
+<div class="fb-background-color">
+			  <div 
+			  	class = "fb-comments" 
+			  	data-href = "https://docs.amelaris.com/menu-biaya-perkuliahan/"
+			  	data-numposts = "10"
+			  	data-lazy = "true"
+				data-colorscheme = "light"
+				data-order-by = "social"
+				data-mobile=true>
+			  </div></div>
+		  <style>
+		    .fb-background-color {
+				background: #ffffff !important;
+			}
+			.fb_iframe_widget_fluid_desktop iframe {
+			    width: 100% !important;
+			}
+		  </style>
+		  <p>The post <a rel="nofollow" href="https://docs.amelaris.com/menu-biaya-perkuliahan/">Menu Biaya Perkuliahan</a> appeared first on <a rel="nofollow" href="https://docs.amelaris.com/">Amelaris University Manual Book</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Menu Jadwal</title>
 		<link>https://docs.amelaris.com/menu-jadwal/</link>
 		
