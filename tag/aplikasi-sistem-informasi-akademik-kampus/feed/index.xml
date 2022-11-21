@@ -12,7 +12,7 @@
 	<atom:link href="https://docs.amelaris.com/tag/aplikasi-sistem-informasi-akademik-kampus/feed/" rel="self" type="application/rss+xml" />
 	<link>https://docs.amelaris.com/tag/aplikasi-sistem-informasi-akademik-kampus/</link>
 	<description>Sistem informasi akademik universitas berbasis REST API yang ramah pengguna, efisien dan fleksibel</description>
-	<lastBuildDate>Fri, 14 Oct 2022 06:08:56 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 20 Nov 2022 12:40:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -34,7 +34,6 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 07:05:52 +0000</pubDate>
 				<category><![CDATA[Role Admin]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[aplikasi sistem informasi akademik kampus]]></category>
 		<guid isPermaLink="false">https://docs.amelaris.com/?p=34</guid>
 
@@ -46,7 +45,7 @@
 
 
 
-<h2>4.1. Rules Management</h2>
+<h2 id="rules-management">4.1. Rules Management</h2>
 
 
 
@@ -103,7 +102,7 @@
 
 
 
-<h2>4.3. Mata Kuliah</h2>
+<h2 id="mata-kuliah">4.3. Mata Kuliah</h2>
 
 
 
@@ -133,7 +132,7 @@
 
 
 
-<h2>4.4. Paket Mata Kuliah</h2>
+<h2 id="paket-mata-kuliah">4.4. Paket Mata Kuliah</h2>
 
 
 
@@ -163,7 +162,7 @@
 
 
 
-<h2>4.5. Kurikulum</h2>
+<h2 id="kurikulum">4.5. Kurikulum</h2>
 
 
 
@@ -223,7 +222,7 @@
 
 
 
-<p>.4.6. Ruang Kelas</p>
+<h2>.4.6. Ruang Kelas</h2>
 
 
 
@@ -238,7 +237,7 @@
 
 
 
-<h2>4.7. Kelas Perkuliahan</h2>
+<h2 id="kelas-perkuliahan">4.7. Kelas Perkuliahan</h2>
 
 
 
@@ -306,7 +305,7 @@
 
 
 
-<h2>4.7.2. Kelas Perkuliahan &#8211; Tab Staff</h2>
+<h2 id="dosen-pengajar-kelas">4.7.2. Kelas Perkuliahan &#8211; Tab Staff</h2>
 
 
 <div class="wp-block-image">
@@ -321,7 +320,7 @@
 
 
 
-<h2>4.7.3. Kelas Perkuliahan &#8211; Tab Jadwal</h2>
+<h2 id="jadwal-kelas-perkuliahan">4.7.3. Kelas Perkuliahan &#8211; Tab Jadwal</h2>
 
 
 <div class="wp-block-image">
@@ -336,7 +335,7 @@
 
 
 
-<h2>4.7.4. Kelas Perkuliahan &#8211; Tab Transfer</h2>
+<h2 id="pindah-kelas">4.7.4. Kelas Perkuliahan &#8211; Tab Transfer</h2>
 
 
 <div class="wp-block-image">
@@ -351,7 +350,7 @@
 
 
 
-<h2>4.7.5. Kelas Perkuliahan &#8211; Tab Komponen</h2>
+<h2 id="komponen-penilaian">4.7.5. Kelas Perkuliahan &#8211; Tab Komponen</h2>
 
 
 <div class="wp-block-image">
@@ -381,7 +380,7 @@
 
 
 
-<h2>4.7.6. Kelas Perkuliahan &#8211; Tab Penilaian</h2>
+<h2 id="penilaian">4.7.6. Kelas Perkuliahan &#8211; Tab Penilaian</h2>
 
 
 <div class="wp-block-image">
@@ -422,7 +421,7 @@
 
 
 
-<h2>4.7.7. Kelas Perkuliahan &#8211; Tab Isi Absensi</h2>
+<h2 id="presensi">4.7.7. Kelas Perkuliahan &#8211; Tab Isi Presensi</h2>
 
 
 <div class="wp-block-image">
@@ -437,7 +436,7 @@
 
 
 
-<h2>4.7.8. Kelas Perkuliahan &#8211; Tab Daftar Absensi</h2>
+<h2>4.7.8. Kelas Perkuliahan &#8211; Tab Daftar Presensi</h2>
 
 
 <div class="wp-block-image">
@@ -452,7 +451,7 @@
 
 
 
-<h2>4.8. Aktivitas Perkuliahan Mahasiswa</h2>
+<h2 id="aktivitas-perkuliahan">4.8. Aktivitas Perkuliahan Mahasiswa</h2>
 
 
 
